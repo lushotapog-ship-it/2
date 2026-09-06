@@ -4,6 +4,7 @@ import { dueToday, unfamiliarMasters, overallStats } from '../lib/insights';
 import { resolveMaster } from '../lib/masterIndex';
 
 const REASON_LABEL = { never: '未練過', weak: '常答錯' };
+const MODE_LABEL = { en: '英文情境', zh: '中文回憶', sk: 'Skeleton 重組' };
 
 export default function HomePage({ onNavigate, onReview }) {
   const state = getState();
@@ -43,7 +44,7 @@ export default function HomePage({ onNavigate, onReview }) {
             <div className="list-row" key={`${id}-${mode}`}>
               <div>
                 <strong>{id}</strong> {m.zh}
-                <div className="muted">{mode === 'en' ? '英文' : '中文'} · 逾期 {overdue.toFixed(1)} 天</div>
+                <div className="muted">{MODE_LABEL[mode]} · 逾期 {overdue.toFixed(1)} 天</div>
               </div>
               <button className="btn" onClick={() => onReview(id, mode)}>去複習</button>
             </div>
@@ -64,7 +65,8 @@ export default function HomePage({ onNavigate, onReview }) {
                 <span className="tag" style={{ marginLeft: 6 }}>{REASON_LABEL[reason]}</span>
               </div>
               <div className="btn-row">
-                <button className="btn" onClick={() => onReview(id, 'en')}>英文</button>
+                <button className="btn" onClick={() => onReview(id, 'en')}>情境</button>
+                <button className="btn" onClick={() => onReview(id, 'sk')}>Skeleton</button>
                 <button className="btn" onClick={() => onReview(id, 'zh')}>中文</button>
               </div>
             </div>

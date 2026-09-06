@@ -1,14 +1,17 @@
 import { MASTERS } from './masterIndex';
 import { isDue, daysOverdue } from './srs';
 
-// Cards due for review today (either English or Chinese mode), most overdue first.
+const MODES = ['en', 'zh', 'sk'];
+
+// Cards due for review today (English scenario, Chinese recall, or English
+// Skeleton drill), most overdue first.
 export function dueToday(perMaster, poolIds) {
   const pool = new Set(poolIds);
   const due = [];
   for (const id of Object.keys(perMaster)) {
     if (!pool.has(id)) continue;
     const rec = perMaster[id];
-    for (const mode of ['en', 'zh']) {
+    for (const mode of MODES) {
       const card = rec?.[mode];
       if (isDue(card)) due.push({ id, mode, overdue: daysOverdue(card) });
     }
@@ -26,10 +29,12 @@ export function unfamiliarMasters(perMaster, poolIds, limit = 10) {
     const master = byId.get(id);
     if (!master) continue;
     const rec = perMaster[id] || {};
-    const enCard = rec.en;
-    const zhCard = rec.zh;
-    const totalSeen = (enCard?.seen || 0) + (zhCard?.seen || 0);
-    const totalWrong = (enCard?.wrong || 0) + (zhCard?.forgot || 0);
+    let totalSeen = 0;
+    let totalWrong = 0;
+    for (const mode of MODES) {
+      totalSeen += rec[mode]?.seen || 0;
+      totalWrong += rec[mode]?.wrong || 0;
+    }
     const wrongRate = totalSeen ? totalWrong / totalSeen : 0;
     if (totalSeen === 0) {
       scored.push({ id, reason: 'never', tier: master.tier, weight: 100 - master.tier });
@@ -49,14 +54,12 @@ export function topMisspellings(misspellings, limit = 20) {
 
 export function overallStats(perMaster, poolIds) {
   let attempted = 0;
-  let mastered = 0; // box >= 3 in either mode
+  let mastered = 0; // box >= 3 in any mode
   for (const id of poolIds) {
     const rec = perMaster[id];
     if (!rec) continue;
-    const enSeen = rec.en?.seen || 0;
-    const zhSeen = rec.zh?.seen || 0;
-    if (enSeen || zhSeen) attempted += 1;
-    if ((rec.en?.box || 0) >= 3 || (rec.zh?.box || 0) >= 3) mastered += 1;
+    if (MODES.some((mode) => rec[mode]?.seen)) attempted += 1;
+    if (MODES.some((mode) => (rec[mode]?.box || 0) >= 3)) mastered += 1;
   }
   return { total: poolIds.length, attempted, mastered };
 }

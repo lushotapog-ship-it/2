@@ -24,6 +24,7 @@ export default function App() {
   const [ready, setReady] = useState(false);
   const [tab, setTab] = useState('home');
   const [pendingReviewId, setPendingReviewId] = useState(null);
+  const [pendingSubMode, setPendingSubMode] = useState('scenario');
 
   useEffect(() => {
     loadStore().then(() => setReady(true));
@@ -38,14 +39,29 @@ export default function App() {
 
   function goReview(id, mode) {
     setPendingReviewId(id);
-    setTab(mode === 'zh' ? 'zh' : 'en');
+    if (mode === 'zh') {
+      setTab('zh');
+    } else {
+      setPendingSubMode(mode === 'sk' ? 'skeleton' : 'scenario');
+      setTab('en');
+    }
+  }
+
+  function navTo(id) {
+    setPendingReviewId(null);
+    setPendingSubMode('scenario');
+    setTab(id);
   }
 
   return (
     <>
-      {tab === 'home' && <HomePage onNavigate={setTab} onReview={goReview} />}
+      {tab === 'home' && <HomePage onNavigate={navTo} onReview={goReview} />}
       {tab === 'en' && (
-        <PracticeEnglish forcedMasterId={pendingReviewId} onConsumeForced={() => setPendingReviewId(null)} />
+        <PracticeEnglish
+          forcedMasterId={pendingReviewId}
+          forcedSubMode={pendingSubMode}
+          onConsumeForced={() => setPendingReviewId(null)}
+        />
       )}
       {tab === 'zh' && (
         <PracticeChinese forcedMasterId={pendingReviewId} onConsumeForced={() => setPendingReviewId(null)} />
@@ -57,7 +73,7 @@ export default function App() {
 
       <nav className="navbar">
         {TABS.map(({ id, label, icon: Icon }) => (
-          <button key={id} className={`nav-item ${tab === id ? 'active' : ''}`} onClick={() => setTab(id)}>
+          <button key={id} className={`nav-item ${tab === id ? 'active' : ''}`} onClick={() => navTo(id)}>
             <Icon size={20} />
             {label}
           </button>

@@ -6,6 +6,7 @@ import { getState, logScenarioAttempt, recordMisspellings, recordWrongAnswer, up
 import { reviewCard } from '../lib/srs';
 import { gradeAnswer } from '../lib/gradeAnswer';
 import MasterCompareCard from './MasterCompareCard.jsx';
+import PracticeSkeleton from './PracticeSkeleton.jsx';
 
 function weightedPickTopic(pool, scenarioLog) {
   if (!pool.length) return null;
@@ -23,9 +24,10 @@ function weightedPickTopic(pool, scenarioLog) {
   return pool[pool.length - 1];
 }
 
-export default function PracticeEnglish({ forcedMasterId, onConsumeForced }) {
+export default function PracticeEnglish({ forcedMasterId, forcedSubMode, onConsumeForced }) {
   const state = getState();
   const poolIds = useMemo(() => resolvePool(state.selection), [state.selection]);
+  const [subMode, setSubMode] = useState(forcedSubMode || 'scenario');
   const [activeCats, setActiveCats] = useState([]);
   const [topic, setTopic] = useState(null);
   const [candidateIds, setCandidateIds] = useState([]);
@@ -57,6 +59,7 @@ export default function PracticeEnglish({ forcedMasterId, onConsumeForced }) {
   }
 
   useEffect(() => {
+    if (subMode !== 'scenario') return;
     if (forcedMasterId) {
       const m = resolveMaster(forcedMasterId);
       if (m) {
@@ -72,12 +75,10 @@ export default function PracticeEnglish({ forcedMasterId, onConsumeForced }) {
     }
     newTopic();
     // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, []);
+  }, [subMode]);
 
-  if (!topic) return <div className="page">暫時沒有可用的情境。</div>;
-
-  const tKey = topicKey(topic);
-  const log = getState().scenarioLog[tKey];
+  const tKey = topic ? topicKey(topic) : null;
+  const log = tKey ? getState().scenarioLog[tKey] : null;
   const answeredCounts = log?.masterCounts || {};
   const unansweredCandidates = candidateIds.filter((id) => !answeredCounts[id]);
 
@@ -116,10 +117,33 @@ export default function PracticeEnglish({ forcedMasterId, onConsumeForced }) {
   return (
     <div className="page">
       <div className="header" style={{ padding: 0, marginBottom: 12 }}>
-        <h1>英文情境練習</h1>
-        <p>寫出這個情境帶來的好處或學到的東西，系統會批改文法/串字，並猜你答的是哪個角度。</p>
+        <h1>英文練習</h1>
+        <p>
+          {subMode === 'scenario'
+            ? '寫出這個情境帶來的好處或學到的東西，系統會批改文法/串字，並猜你答的是哪個角度。'
+            : '只看英文 Skeleton 關鍵詞，練習當場組出一兩句英文，再跟真正的 Body 核對——比整段情境輕鬆，適合還不熟的時候先打底。'}
+        </p>
       </div>
 
+      <div className="btn-row" style={{ marginBottom: 12 }}>
+        <button className={`pill-btn ${subMode === 'scenario' ? 'active' : ''}`} onClick={() => setSubMode('scenario')}>
+          情境作文
+        </button>
+        <button className={`pill-btn ${subMode === 'skeleton' ? 'active' : ''}`} onClick={() => setSubMode('skeleton')}>
+          Skeleton 重組
+        </button>
+      </div>
+
+      {subMode === 'skeleton' ? (
+        <PracticeSkeleton
+          poolIds={poolIds}
+          forcedMasterId={forcedSubMode === 'skeleton' ? forcedMasterId : null}
+          onConsumeForced={onConsumeForced}
+        />
+      ) : !topic ? (
+        <p className="muted">暫時沒有可用的情境。</p>
+      ) : (
+        <>
       <div className="btn-row" style={{ marginBottom: 10, flexWrap: 'wrap' }}>
         {TOPIC_CATEGORIES.map((c) => (
           <button
@@ -218,6 +242,8 @@ export default function PracticeEnglish({ forcedMasterId, onConsumeForced }) {
             <button className="btn btn-danger" onClick={() => rate(false)}>仍需加強，下次再溫</button>
           </div>
         </div>
+      )}
+        </>
       )}
     </div>
   );
