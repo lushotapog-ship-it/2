@@ -56,9 +56,6 @@ export function basicGrammarChecks(text) {
   const trimmed = text.trim();
   if (!trimmed) return issues;
 
-  if (/\bi\b/.test(trimmed) && !/\bI\b/.test(trimmed)) {
-    issues.push({ type: 'grammar', message: '代名詞 "I" 要大寫' });
-  }
   let m;
   A_AN_RE.lastIndex = 0;
   while ((m = A_AN_RE.exec(trimmed))) {
@@ -73,13 +70,6 @@ export function basicGrammarChecks(text) {
   }
   if (/\balot\b/i.test(trimmed)) issues.push({ type: 'grammar', message: '"alot" 應該分開寫成 "a lot"' });
   if (/\bdon'?t\s+have\s+no\b/i.test(trimmed)) issues.push({ type: 'grammar', message: '雙重否定 "don\'t have no"，應改為 "don\'t have any"' });
-  const firstChar = trimmed[0];
-  if (firstChar && firstChar === firstChar.toLowerCase() && /[a-z]/.test(firstChar)) {
-    issues.push({ type: 'grammar', message: '句子開頭要大寫' });
-  }
-  if (!/[.!?]$/.test(trimmed)) {
-    issues.push({ type: 'grammar', message: '句尾似乎漏了標點符號' });
-  }
   const sentences = trimmed.split(/[.!?]+/).filter((s) => s.trim());
   for (const s of sentences) {
     const wc = s.trim().split(/\s+/).length;
