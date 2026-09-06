@@ -1,0 +1,814 @@
+[
+  {
+    "letter": "A",
+    "zh": "教育與學習",
+    "en": "Education & Learning",
+    "count": 17,
+    "items": [
+      {
+        "zh": "大學生活",
+        "en": "University life"
+      },
+      {
+        "zh": "學校生活",
+        "en": "School life"
+      },
+      {
+        "zh": "功課",
+        "en": "Homework"
+      },
+      {
+        "zh": "考試",
+        "en": "Examinations"
+      },
+      {
+        "zh": "私人補習",
+        "en": "Private tutoring"
+      },
+      {
+        "zh": "網上學習",
+        "en": "Online learning"
+      },
+      {
+        "zh": "",
+        "en": "AI 輔 助學習 AI in education"
+      },
+      {
+        "zh": "校規",
+        "en": "School rules"
+      },
+      {
+        "zh": "選科",
+        "en": "Subject choices"
+      },
+      {
+        "zh": "課外活動",
+        "en": "Extracurricular activities"
+      },
+      {
+        "zh": "交流計劃",
+        "en": "Exchange programmes"
+      },
+      {
+        "zh": "比賽",
+        "en": "Competitions"
+      },
+      {
+        "zh": "閱讀",
+        "en": "Reading"
+      },
+      {
+        "zh": "語言學習",
+        "en": "Language learning"
+      },
+      {
+        "zh": "小組專題",
+        "en": "Group projects"
+      },
+      {
+        "zh": "實踐學習",
+        "en": "Practical / experiential learning"
+      },
+      {
+        "zh": "終身學習",
+        "en": "Lifelong learning"
+      }
+    ]
+  },
+  {
+    "letter": "B",
+    "zh": "人際關係",
+    "en": "Human Relationships",
+    "count": 15,
+    "items": [
+      {
+        "zh": "友誼",
+        "en": "Friendship"
+      },
+      {
+        "zh": "維繫友誼",
+        "en": "Maintaining friendship"
+      },
+      {
+        "zh": "家庭關係",
+        "en": "Family relationships"
+      },
+      {
+        "zh": "親子溝通",
+        "en": "Parent-child communication"
+      },
+      {
+        "zh": "筆友",
+        "en": "Pen friends"
+      },
+      {
+        "zh": "網 上友誼",
+        "en": "Online friendship"
+      },
+      {
+        "zh": "面對面溝通",
+        "en": "Face-to-face communication"
+      },
+      {
+        "zh": "團隊關係",
+        "en": "Teamwork relationships"
+      },
+      {
+        "zh": "代溝",
+        "en": "Generation gap"
+      },
+      {
+        "zh": "鄰里關係",
+        "en": "Neighbourhood relationships"
+      },
+      {
+        "zh": "接觸不同背景的人",
+        "en": "Meeting people from different backgrounds"
+      },
+      {
+        "zh": "衝突與分歧",
+        "en": "Conflict and disagreement"
+      },
+      {
+        "zh": "孤獨與社 交孤立",
+        "en": "Loneliness and social isolation"
+      },
+      {
+        "zh": "人際網絡",
+        "en": "Networking"
+      },
+      {
+        "zh": "關係質素",
+        "en": "vs 數量 Quality vs quantity of relationships"
+      }
+    ]
+  },
+  {
+    "letter": "C",
+    "zh": "個人發展",
+    "en": "Personal Development",
+    "count": 17,
+    "items": [
+      {
+        "zh": "獨立",
+        "en": "Independence"
+      },
+      {
+        "zh": "責任感",
+        "en": "Responsibility"
+      },
+      {
+        "zh": "自信",
+        "en": "Confidence"
+      },
+      {
+        "zh": "抗逆力",
+        "en": "Resilience"
+      },
+      {
+        "zh": "適應力",
+        "en": "Adaptability"
+      },
+      {
+        "zh": "溝通技巧",
+        "en": "Communication skills"
+      },
+      {
+        "zh": "解難能 力",
+        "en": "Problem-solving"
+      },
+      {
+        "zh": "批判思考",
+        "en": "Critical thinking"
+      },
+      {
+        "zh": "創意",
+        "en": "Creativity"
+      },
+      {
+        "zh": "決策",
+        "en": "Decision-making"
+      },
+      {
+        "zh": "自我認識",
+        "en": "Self-understanding"
+      },
+      {
+        "zh": "踏出舒適圈",
+        "en": "Leaving one's comfort zone"
+      },
+      {
+        "zh": "從錯誤中學習",
+        "en": "Learning from mistakes"
+      },
+      {
+        "zh": "目標與堅持",
+        "en": "Goal-setting / persistence"
+      },
+      {
+        "zh": "時間管理",
+        "en": "Time management / priorities"
+      },
+      {
+        "zh": "實務經驗",
+        "en": "Practical experience"
+      },
+      {
+        "zh": "領導才能",
+        "en": "Leadership"
+      }
+    ]
+  },
+  {
+    "letter": "D",
+    "zh": "科技與數碼生活",
+    "en": "Technology & Digital Life",
+    "count": 16,
+    "items": [
+      {
+        "zh": "人工智能",
+        "en": "AI"
+      },
+      {
+        "zh": "社交媒體",
+        "en": "Social media"
+      },
+      {
+        "zh": "智能電話",
+        "en": "Smartphones"
+      },
+      {
+        "zh": "互聯網/網上資訊",
+        "en": "Internet / online information"
+      },
+      {
+        "zh": "網購",
+        "en": "Online shopping"
+      },
+      {
+        "zh": "數碼溝通",
+        "en": "Digital communication"
+      },
+      {
+        "zh": "自動化",
+        "en": "Automation"
+      },
+      {
+        "zh": "自動駕駛科技",
+        "en": "Self-driving technology"
+      },
+      {
+        "zh": "網紅",
+        "en": "Influencers"
+      },
+      {
+        "zh": "私隱/個人資料",
+        "en": "Privacy / personal data"
+      },
+      {
+        "zh": "錯誤資訊",
+        "en": "Misinformation"
+      },
+      {
+        "zh": "數碼足跡",
+        "en": "Digital footprint"
+      },
+      {
+        "zh": "科技依賴",
+        "en": "Technology dependence"
+      },
+      {
+        "zh": "數碼鴻溝",
+        "en": "Digital divide"
+      },
+      {
+        "zh": "演算法/個人化內容",
+        "en": "Algorithms / personalised content"
+      },
+      {
+        "zh": "人的判斷",
+        "en": "vs 科技 Human judgement vs technology"
+      }
+    ]
+  },
+  {
+    "letter": "E",
+    "zh": "健康與生活方式",
+    "en": "Health & Lifestyle",
+    "count": 16,
+    "items": [
+      {
+        "zh": "運動",
+        "en": "Exercise"
+      },
+      {
+        "zh": "體育",
+        "en": "Sports"
+      },
+      {
+        "zh": "睡眠",
+        "en": "Sleep"
+      },
+      {
+        "zh": "健康飲食",
+        "en": "Healthy eating"
+      },
+      {
+        "zh": "壓力",
+        "en": "Stress"
+      },
+      {
+        "zh": "精神健康",
+        "en": "Mental health"
+      },
+      {
+        "zh": "興趣愛好",
+        "en": "Hobbies"
+      },
+      {
+        "zh": "讀書/工作與生活平 衡",
+        "en": "Study-life / work-life balance"
+      },
+      {
+        "zh": "戶外活動",
+        "en": "Outdoor activities"
+      },
+      {
+        "zh": "螢幕習慣",
+        "en": "Screen habits"
+      },
+      {
+        "zh": "素食",
+        "en": "Vegetarian diets"
+      },
+      {
+        "zh": "民間療法/健康資訊",
+        "en": "Home remedies / health information"
+      },
+      {
+        "zh": "預防性健康",
+        "en": "Preventive health"
+      },
+      {
+        "zh": "社交健康",
+        "en": "Social health"
+      },
+      {
+        "zh": "不健康的方便",
+        "en": "Unhealthy convenience"
+      },
+      {
+        "zh": "習慣養成",
+        "en": "Habit formation"
+      }
+    ]
+  },
+  {
+    "letter": "F",
+    "zh": "工作/事業/金錢",
+    "en": "Work / Career / Money",
+    "count": 19,
+    "items": [
+      {
+        "zh": "兼職",
+        "en": "Part-time jobs"
+      },
+      {
+        "zh": "事業選擇",
+        "en": "Career choice"
+      },
+      {
+        "zh": "薪金",
+        "en": "vs 興趣 Salary vs interest"
+      },
+      {
+        "zh": "工作經驗",
+        "en": "Work experience"
+      },
+      {
+        "zh": "創業",
+        "en": "Entrepreneurship"
+      },
+      {
+        "zh": "遙距工作",
+        "en": "Remote work"
+      },
+      {
+        "zh": "職場團隊合作",
+        "en": "Workplace teamwork"
+      },
+      {
+        "zh": "海外工作",
+        "en": "Working overseas"
+      },
+      {
+        "zh": "退休",
+        "en": "Retirement"
+      },
+      {
+        "zh": "理財知識",
+        "en": "Financial literacy"
+      },
+      {
+        "zh": "儲蓄",
+        "en": "Saving"
+      },
+      {
+        "zh": "消 費",
+        "en": "Spending"
+      },
+      {
+        "zh": "消費主義",
+        "en": "Consumerism"
+      },
+      {
+        "zh": "廣告",
+        "en": "Advertising"
+      },
+      {
+        "zh": "價格",
+        "en": "vs 品質 Price vs quality"
+      },
+      {
+        "zh": "財政壓力",
+        "en": "Financial pressure"
+      },
+      {
+        "zh": "工作保障",
+        "en": "Job security"
+      },
+      {
+        "zh": "有意 義的工作",
+        "en": "Meaningful work"
+      },
+      {
+        "zh": "事業彈性",
+        "en": "Career flexibility"
+      }
+    ]
+  },
+  {
+    "letter": "G",
+    "zh": "文化/媒體/娛樂",
+    "en": "Culture / Media / Entertainment",
+    "count": 16,
+    "items": [
+      {
+        "zh": "傳統文化",
+        "en": "Traditional culture"
+      },
+      {
+        "zh": "本地身份",
+        "en": "Local identity"
+      },
+      {
+        "zh": "節慶",
+        "en": "Festivals"
+      },
+      {
+        "zh": "飲食/茶文化",
+        "en": "Food / tea culture"
+      },
+      {
+        "zh": "電影",
+        "en": "Films"
+      },
+      {
+        "zh": "書籍/故事",
+        "en": "Books / stories"
+      },
+      {
+        "zh": "動漫/遊戲",
+        "en": "Anime / games"
+      },
+      {
+        "zh": "音樂",
+        "en": "Music"
+      },
+      {
+        "zh": "藝術",
+        "en": "Arts"
+      },
+      {
+        "zh": "名人/網紅",
+        "en": "Celebrities / influencers"
+      },
+      {
+        "zh": "文化保育",
+        "en": "Cultural preservation"
+      },
+      {
+        "zh": "文化交流",
+        "en": "Cultural exchange"
+      },
+      {
+        "zh": "流行文化",
+        "en": "Popular culture"
+      },
+      {
+        "zh": "創意產業",
+        "en": "Creative industries"
+      },
+      {
+        "zh": "媒體再現/刻板印象",
+        "en": "Representation / stereotypes"
+      },
+      {
+        "zh": "文化商業化",
+        "en": "Commercialisation of culture"
+      }
+    ]
+  },
+  {
+    "letter": "H",
+    "zh": "旅遊",
+    "en": "Travel / Tourism",
+    "count": 19,
+    "items": [
+      {
+        "zh": "海外旅遊",
+        "en": "Overseas travel"
+      },
+      {
+        "zh": "本地旅遊",
+        "en": "Local tourism"
+      },
+      {
+        "zh": "遊學團",
+        "en": "Study tours"
+      },
+      {
+        "zh": "交流旅行",
+        "en": "Exchange travel"
+      },
+      {
+        "zh": "獨自旅行",
+        "en": "Solo travel"
+      },
+      {
+        "zh": "文化旅遊",
+        "en": "Cultural tourism"
+      },
+      {
+        "zh": "影視取景旅遊",
+        "en": "Film tourism"
+      },
+      {
+        "zh": "生態旅遊",
+        "en": "Eco-tourism"
+      },
+      {
+        "zh": "遊客行為",
+        "en": "Tourist behaviour"
+      },
+      {
+        "zh": "旅遊業發展",
+        "en": "Tourism development"
+      },
+      {
+        "zh": "過度旅遊",
+        "en": "Overtourism"
+      },
+      {
+        "zh": "居民",
+        "en": "vs 遊客 Residents vs tourists"
+      },
+      {
+        "zh": "原真性",
+        "en": "Authenticity"
+      },
+      {
+        "zh": "景點",
+        "en": "Tourist attractions"
+      },
+      {
+        "zh": "旅遊宣傳",
+        "en": "Tourism promotion"
+      },
+      {
+        "zh": "無障礙",
+        "en": "Accessibility"
+      },
+      {
+        "zh": "安全",
+        "en": "Safety"
+      },
+      {
+        "zh": "季節性",
+        "en": "Seasonality"
+      },
+      {
+        "zh": "可持續旅遊",
+        "en": "Sustainable tourism"
+      }
+    ]
+  },
+  {
+    "letter": "I",
+    "zh": "社會/社區",
+    "en": "Society / Community",
+    "count": 26,
+    "items": [
+      {
+        "zh": "義工服務",
+        "en": "Volunteering"
+      },
+      {
+        "zh": "社區活動",
+        "en": "Community activities"
+      },
+      {
+        "zh": "長者",
+        "en": "Elderly people"
+      },
+      {
+        "zh": "青年",
+        "en": "Young people"
+      },
+      {
+        "zh": "社會共融",
+        "en": "Social inclusion"
+      },
+      {
+        "zh": "不平等",
+        "en": "Inequality"
+      },
+      {
+        "zh": "無障礙設施",
+        "en": "Accessibility"
+      },
+      {
+        "zh": "公共設施",
+        "en": "Public facilities"
+      },
+      {
+        "zh": "公共交通",
+        "en": "Public transport"
+      },
+      {
+        "zh": "公共空間",
+        "en": "Public spaces"
+      },
+      {
+        "zh": "鄰里",
+        "en": "Neighbourhoods"
+      },
+      {
+        "zh": "社會信任",
+        "en": "Social trust"
+      },
+      {
+        "zh": "人口老化",
+        "en": "Ageing population"
+      },
+      {
+        "zh": "跨代關係",
+        "en": "Intergenerational relationships"
+      },
+      {
+        "zh": "公共安全",
+        "en": "Public safety"
+      },
+      {
+        "zh": "規則/法律",
+        "en": "Rules / laws"
+      },
+      {
+        "zh": "自由",
+        "en": "vs 責任 Freedom vs responsibility"
+      },
+      {
+        "zh": "政府責任",
+        "en": "Government responsibility"
+      },
+      {
+        "zh": "個人責任",
+        "en": "Individual responsibility"
+      },
+      {
+        "zh": "公帑/稅收",
+        "en": "Public money / taxation"
+      },
+      {
+        "zh": "慈善",
+        "en": "Charity"
+      },
+      {
+        "zh": "房屋/都市生活",
+        "en": "Housing / urban life"
+      },
+      {
+        "zh": "鄉郊",
+        "en": "vs 城市生活 Rural vs urban life"
+      },
+      {
+        "zh": "社區衝突",
+        "en": "Community conflict / NIMBY"
+      },
+      {
+        "zh": "社會參與",
+        "en": "Social participation"
+      },
+      {
+        "zh": "公平",
+        "en": "vs 效率 Fairness vs efficiency"
+      }
+    ]
+  },
+  {
+    "letter": "J",
+    "zh": "環境",
+    "en": "Environment",
+    "count": 22,
+    "items": [
+      {
+        "zh": "回收",
+        "en": "Recycling"
+      },
+      {
+        "zh": "減廢",
+        "en": "Waste reduction"
+      },
+      {
+        "zh": "塑膠使用",
+        "en": "Plastic use"
+      },
+      {
+        "zh": "廚餘",
+        "en": "Food waste"
+      },
+      {
+        "zh": "綠色交通",
+        "en": "Green transport"
+      },
+      {
+        "zh": "快時尚",
+        "en": "Fast fashion"
+      },
+      {
+        "zh": "二手物品",
+        "en": "Second-hand goods"
+      },
+      {
+        "zh": "可持續消費",
+        "en": "Sustainable consumption"
+      },
+      {
+        "zh": "可再生能源",
+        "en": "Renewable energy"
+      },
+      {
+        "zh": "節能",
+        "en": "Energy saving"
+      },
+      {
+        "zh": "郊野公園",
+        "en": "Country parks"
+      },
+      {
+        "zh": "綠化 空間",
+        "en": "Green spaces"
+      },
+      {
+        "zh": "野生動物保護",
+        "en": "Wildlife protection"
+      },
+      {
+        "zh": "環保教育",
+        "en": "Environmental education"
+      },
+      {
+        "zh": "商業責任",
+        "en": "Business responsibility"
+      },
+      {
+        "zh": "消費者責任",
+        "en": "Consumer responsibility"
+      },
+      {
+        "zh": "政府責任",
+        "en": "Government responsibility"
+      },
+      {
+        "zh": "漂綠",
+        "en": "Greenwashing"
+      },
+      {
+        "zh": "成本",
+        "en": "vs 可持續 Cost vs sustainability"
+      },
+      {
+        "zh": "方便",
+        "en": "vs 可持續 Convenience vs sustainability"
+      },
+      {
+        "zh": "個人行動",
+        "en": "vs 制度改變 Individual action vs system change"
+      },
+      {
+        "zh": "長遠環境思維",
+        "en": "Long-term environmental thinking"
+      }
+    ]
+  }
+]

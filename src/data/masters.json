@@ -1,0 +1,3205 @@
+{
+  "masters": [
+    {
+      "id": "M01",
+      "zh": "獨立成熟",
+      "en": "Independence / Maturity",
+      "isNew": false,
+      "part": {
+        "num": "1",
+        "name": "個人成長 Personal Growth"
+      },
+      "mergeNote": null,
+      "steps": [
+        "新環境沒有人代勞",
+        "要自己處理問題",
+        "明白選擇有後果",
+        "變得獨立成熟"
+      ],
+      "skeleton": "new freedom → manage own problems → face consequences → independence",
+      "bodies": [
+        {
+          "type": "body",
+          "label": null,
+          "text": "Taking part in new experiences can help young people become more independent and mature. When parents or teachers are not always there to make decisions for them, they need to manage their own time, deal with everyday problems and decide what to do when unexpected situations arise. They also begin to understand that their choices have consequences. By gradually learning to handle these responsibilities on their own, young people become less dependent on others and better prepared for adult life."
+        }
+      ],
+      "transferableRaw": "university / travel / exchange / part-time job / living away from home / camp / working overseas",
+      "transferable": [
+        "university",
+        "travel",
+        "exchange",
+        "part-time job",
+        "living away from home",
+        "camp",
+        "working overseas"
+      ],
+      "avoid": "reading、recycling、advertising 這類沒有「自己處理生活」情境的題目。",
+      "extraNotes": [],
+      "tier": 1
+    },
+    {
+      "id": "M02",
+      "zh": "責任感",
+      "en": "Responsibility",
+      "isNew": false,
+      "part": {
+        "num": "1",
+        "name": "個人成長 Personal Growth"
+      },
+      "mergeNote": null,
+      "steps": [
+        "擔任真實角色",
+        "別人依賴你",
+        "做不到會連累別人",
+        "明白責任的意義"
+      ],
+      "skeleton": "real role → others depend on you → failure affects them → responsibility",
+      "bodies": [
+        {
+          "type": "body",
+          "label": null,
+          "text": "The experience can also teach people to become more responsible. Once they are given a real role in a group, workplace or community activity, their actions no longer affect only themselves. Failing to complete a task may create extra work for teammates, colleagues or other people who are depending on them. This helps them realise that responsibility is not simply about following rules, but about keeping promises and completing what they have agreed to do."
+        }
+      ],
+      "transferableRaw": "group work / part-time jobs / leadership / volunteering / family duties / sports teams",
+      "transferable": [
+        "group work",
+        "part-time jobs",
+        "leadership",
+        "volunteering",
+        "family duties",
+        "sports teams"
+      ],
+      "avoid": null,
+      "extraNotes": [],
+      "tier": 3
+    },
+    {
+      "id": "M03",
+      "zh": "憑真實成功建立自信",
+      "en": "Confidence Through Real Success",
+      "isNew": false,
+      "part": {
+        "num": "1",
+        "name": "個人成長 Personal Growth"
+      },
+      "mergeNote": null,
+      "steps": [
+        "起初害怕",
+        "嘗試",
+        "取得小成功",
+        "證明自己做得到",
+        "敢挑戰更難的事"
+      ],
+      "skeleton": "fear → try → small success → evidence of ability → confidence",
+      "bodies": [
+        {
+          "type": "body",
+          "label": null,
+          "text": "The experience can also build confidence by giving people real evidence that they are capable of improving. At first, an unfamiliar task may feel difficult or even frightening. However, after practising and successfully dealing with smaller challenges, people begin to realise that they can perform better than they originally expected. This changes the way they approach future difficulties, as they become more willing to try instead of assuming that they will fail."
+        }
+      ],
+      "transferableRaw": "public speaking / sports / language learning / part-time jobs / travel / competition / leadership",
+      "transferable": [
+        "public speaking",
+        "sports",
+        "language learning",
+        "part-time jobs",
+        "travel",
+        "competition",
+        "leadership"
+      ],
+      "avoid": null,
+      "extraNotes": [],
+      "tier": 2
+    },
+    {
+      "id": "M04",
+      "zh": "從失敗中恢復",
+      "en": "Resilience / Learning from Failure",
+      "isNew": false,
+      "part": {
+        "num": "1",
+        "name": "個人成長 Personal Growth"
+      },
+      "mergeNote": null,
+      "steps": [
+        "失敗、失望",
+        "找出問題所在",
+        "改變方法",
+        "再嘗試",
+        "恢復過來"
+      ],
+      "skeleton": "failure → identify weakness → change approach → try again → recover",
+      "bodies": [
+        {
+          "type": "body",
+          "label": null,
+          "text": "Facing failure can help people develop resilience if they are willing to learn from the experience. A poor result is disappointing, but it also reveals weaknesses that success may hide. By thinking about what went wrong, changing their approach and trying again, people learn that one setback does not have to decide the final outcome. This ability to recover from failure is valuable because difficulties are unavoidable in education, work and everyday life."
+        }
+      ],
+      "transferableRaw": "exam / competition / sports / business / job application / creative work",
+      "transferable": [
+        "exam",
+        "competition",
+        "sports",
+        "business",
+        "job application",
+        "creative work"
+      ],
+      "avoid": null,
+      "extraNotes": [],
+      "tier": 2
+    },
+    {
+      "id": "M05",
+      "zh": "適應力",
+      "en": "Adaptability",
+      "isNew": false,
+      "part": {
+        "num": "1",
+        "name": "個人成長 Personal Growth"
+      },
+      "mergeNote": null,
+      "steps": [
+        "進入新環境",
+        "舊方法未必有效",
+        "觀察並調整",
+        "變得靈活"
+      ],
+      "skeleton": "new environment → old habits fail → observe and adjust → flexible",
+      "bodies": [
+        {
+          "type": "body",
+          "label": null,
+          "text": "Experiencing unfamiliar situations also makes people more adaptable. A new school, workplace, country or group may have different expectations and ways of doing things. Instead of assuming that their usual approach will always work, people need to observe, learn from others and adjust when necessary. Repeated experience of dealing with change makes them less afraid of unfamiliar situations and better prepared for a world that does not always remain predictable."
+        }
+      ],
+      "transferableRaw": "travel / exchange / university / working overseas / new technology / career change",
+      "transferable": [
+        "travel",
+        "exchange",
+        "university",
+        "working overseas",
+        "new technology",
+        "career change"
+      ],
+      "avoid": null,
+      "extraNotes": [],
+      "tier": 3
+    },
+    {
+      "id": "M06",
+      "zh": "從實踐中學習",
+      "en": "Practical Skills / Learning by Doing",
+      "isNew": false,
+      "part": {
+        "num": "1",
+        "name": "個人成長 Personal Growth"
+      },
+      "mergeNote": null,
+      "steps": [
+        "懂理論 ≠ 會運用",
+        "在真實情境中應用",
+        "理解更深入"
+      ],
+      "skeleton": "know theory ≠ can use it → apply in real situation → deeper understanding",
+      "bodies": [
+        {
+          "type": "body",
+          "label": null,
+          "text": "Practical experience allows people to turn knowledge into real ability. Understanding an idea in a textbook does not necessarily mean that someone can use it effectively in a real situation. Through activities such as projects, internships, experiments or volunteering, people need to apply what they know and respond to problems that may not have one simple answer. This deepens their understanding and develops practical skills that are difficult to gain through passive learning alone."
+        }
+      ],
+      "transferableRaw": "internships / study tours / project learning / experiments / volunteering / field trips",
+      "transferable": [
+        "internships",
+        "study tours",
+        "project learning",
+        "experiments",
+        "volunteering",
+        "field trips"
+      ],
+      "avoid": null,
+      "extraNotes": [],
+      "tier": 2
+    },
+    {
+      "id": "M07",
+      "zh": "自我認識",
+      "en": "Self-understanding",
+      "isNew": false,
+      "part": {
+        "num": "1",
+        "name": "個人成長 Personal Growth"
+      },
+      "mergeNote": null,
+      "steps": [
+        "未嘗試前只是猜測",
+        "親身經歷",
+        "發現真正興趣與強項",
+        "將來作更合適的選擇"
+      ],
+      "skeleton": "before trying → only guess → real experience → discover strengths → better decisions",
+      "bodies": [
+        {
+          "type": "body",
+          "label": null,
+          "text": "Trying different activities helps people understand themselves better. Before gaining real experience, young people may choose subjects, hobbies or careers mainly according to what other people say or what looks attractive from the outside. By actually taking part, they discover what they enjoy, what they find difficult and what type of environment suits them. This self-understanding leads to more suitable decisions about education, careers and future goals."
+        }
+      ],
+      "transferableRaw": "university subject choice / part-time job / internship / sports / travel / career choice",
+      "transferable": [
+        "university subject choice",
+        "part-time job",
+        "internship",
+        "sports",
+        "travel",
+        "career choice"
+      ],
+      "avoid": null,
+      "extraNotes": [],
+      "tier": 3
+    },
+    {
+      "id": "M66",
+      "zh": "領導才能",
+      "en": "Leadership",
+      "isNew": false,
+      "part": {
+        "num": "1",
+        "name": "個人成長 Personal Growth"
+      },
+      "mergeNote": null,
+      "steps": [
+        "有共同目標",
+        "聆聽意見",
+        "公平分工",
+        "作出決定",
+        "承擔結果"
+      ],
+      "skeleton": "common goal → listen → divide roles → decide → take responsibility",
+      "bodies": [
+        {
+          "type": "body",
+          "label": null,
+          "text": "Good leadership is not simply about telling other people what to do. A leader needs to understand the group's goal, listen to different opinions, divide responsibilities fairly and make decisions when members cannot agree. Most importantly, the leader should take responsibility for the overall progress of the group rather than blaming others whenever problems occur. Leadership therefore requires communication, judgement and responsibility rather than authority alone."
+        }
+      ],
+      "transferableRaw": "school projects / sports / workplace / clubs / volunteering / events",
+      "transferable": [
+        "school projects",
+        "sports",
+        "workplace",
+        "clubs",
+        "volunteering",
+        "events"
+      ],
+      "avoid": null,
+      "extraNotes": [],
+      "tier": 3
+    },
+    {
+      "id": "M67",
+      "zh": "透過接觸建立創意",
+      "en": "Creativity Through Exposure",
+      "isNew": false,
+      "part": {
+        "num": "1",
+        "name": "個人成長 Personal Growth"
+      },
+      "mergeNote": null,
+      "steps": [
+        "接觸多種經驗與想法",
+        "用新方式連結起來",
+        "產生新意念"
+      ],
+      "skeleton": "wide exposure → connect ideas differently → new idea",
+      "bodies": [
+        {
+          "type": "body",
+          "label": null,
+          "text": "Creativity often develops when people are exposed to a wide range of ideas and experiences. New ideas rarely appear from nothing; people usually create something original by combining knowledge, experiences or perspectives in a different way. Reading, travelling, working with others and trying unfamiliar activities therefore provide useful material for creative thinking."
+        }
+      ],
+      "transferableRaw": "arts / education / travel / innovation / AI / project learning",
+      "transferable": [
+        "arts",
+        "education",
+        "travel",
+        "innovation",
+        "AI",
+        "project learning"
+      ],
+      "avoid": null,
+      "extraNotes": [],
+      "tier": 3
+    },
+    {
+      "id": "M68",
+      "zh": "容許犯錯的創意空間",
+      "en": "Creativity Needs Room for Mistakes",
+      "isNew": false,
+      "part": {
+        "num": "1",
+        "name": "個人成長 Personal Growth"
+      },
+      "mergeNote": null,
+      "steps": [
+        "害怕犯錯",
+        "只選安全做法",
+        "減少嘗試",
+        "創意下降"
+      ],
+      "skeleton": "fear of mistakes → only safe choices → less experimentation → less creativity",
+      "bodies": [
+        {
+          "type": "body",
+          "label": null,
+          "text": "Creativity is limited when people are too afraid of making mistakes. New ideas involve uncertainty, so not every attempt will succeed. If students or workers believe that every unusual idea will be criticised, they may choose only safe and familiar approaches. An environment that allows reasonable experimentation therefore encourages more original thinking."
+        }
+      ],
+      "transferableRaw": "school / workplace / arts / business / innovation",
+      "transferable": [
+        "school",
+        "workplace",
+        "arts",
+        "business",
+        "innovation"
+      ],
+      "avoid": null,
+      "extraNotes": [],
+      "tier": 3
+    },
+    {
+      "id": "M87",
+      "zh": "目標設定：拆細 ＋ 追進度",
+      "en": "Goal-setting: Break It Down + Track Progress",
+      "isNew": true,
+      "part": {
+        "num": "1",
+        "name": "個人成長 Personal Growth"
+      },
+      "mergeNote": null,
+      "steps": [
+        "大目標無從入手",
+        "拆成每日可完成的小步",
+        "看得見進度",
+        "動力得以維持"
+      ],
+      "skeleton": "big goal → break into daily steps → visible progress → motivation lasts",
+      "bodies": [
+        {
+          "type": "body",
+          "label": null,
+          "text": "A large goal becomes far more manageable once it is broken into smaller steps. A target such as \"improve my English\" gives a person nothing to do today, while \"learn ten words and write one paragraph\" can be finished and checked. Completed steps also provide visible evidence of progress, which keeps motivation alive during the long middle period when improvement is not yet obvious. Persistence therefore depends less on willpower than on how clearly the goal has been planned."
+        }
+      ],
+      "transferableRaw": "study plan / exam preparation / sports training / saving / career planning / language learning / habit",
+      "transferable": [
+        "study plan",
+        "exam preparation",
+        "sports training",
+        "saving",
+        "career planning",
+        "language learning",
+        "habit"
+      ],
+      "avoid": null,
+      "extraNotes": [],
+      "tier": 3
+    },
+    {
+      "id": "M08",
+      "zh": "友誼 → 情感支持 → 歸屬感",
+      "en": "Friendship → Support → Belonging",
+      "isNew": false,
+      "part": {
+        "num": "2",
+        "name": "人際連結 Human Connection"
+      },
+      "mergeNote": null,
+      "steps": [
+        "一起做事",
+        "有共同經歷",
+        "建立友誼",
+        "有人可以傾訴",
+        "減少孤獨、產生歸屬感"
+      ],
+      "skeleton": "interaction → shared experience → friendship → support → belonging",
+      "bodies": [
+        {
+          "type": "body",
+          "label": null,
+          "text": "Regular interaction helps people build meaningful friendships and a stronger sense of belonging. When people study, work or take part in activities together, shared experiences give them natural opportunities to talk and gradually understand one another. As trust develops, they become more willing to share problems and offer support during difficult periods. Having people to turn to reduces loneliness and makes individuals feel accepted as part of a group, which supports their mental well-being."
+        }
+      ],
+      "transferableRaw": "university / sports / clubs / pen friends / volunteering / workplace / exchange programmes",
+      "transferable": [
+        "university",
+        "sports",
+        "clubs",
+        "pen friends",
+        "volunteering",
+        "workplace",
+        "exchange programmes"
+      ],
+      "avoid": null,
+      "extraNotes": [],
+      "tier": 1
+    },
+    {
+      "id": "M09",
+      "zh": "接觸不同觀點與文化 → 開放思維",
+      "en": "Different Perspectives → Open-mindedness",
+      "isNew": false,
+      "part": {
+        "num": "2",
+        "name": "人際連結 Human Connection"
+      },
+      "mergeNote": null,
+      "steps": [
+        "接觸不同的人與文化",
+        "聽到不同經歷",
+        "發現自己那套不是唯一",
+        "減少偏見",
+        "思維更開放"
+      ],
+      "skeleton": "meet different people → hear different views → own view isn't the only one → less stereotype",
+      "bodies": [
+        {
+          "type": "body",
+          "label": "一般人際版",
+          "text": "Interacting with people from different backgrounds broadens the way individuals understand the world. Different people have different experiences, values and ways of thinking, so conversations and shared activities expose someone to ideas they have never seriously considered before. This helps people realise that their own view is not always the only reasonable one, reduces simple stereotypes and makes them more willing to understand those who are different from themselves."
+        },
+        {
+          "type": "body",
+          "label": "文化版結尾，適合 travel/culture 題，換走最後一句",
+          "text": "(繼續上文) Behaviour that initially appears strange often makes more sense once people understand the history or values behind it. This reduces quick judgement and encourages greater respect for cultural differences."
+        }
+      ],
+      "transferableRaw": "university / pen friends / travel / exchange / multicultural events / films / group work / tea culture / food culture",
+      "transferable": [
+        "university",
+        "pen friends",
+        "travel",
+        "exchange",
+        "multicultural events",
+        "films",
+        "group work",
+        "tea culture",
+        "food culture"
+      ],
+      "avoid": null,
+      "extraNotes": [],
+      "tier": 3
+    },
+    {
+      "id": "M10",
+      "zh": "表達與聆聽",
+      "en": "Communication: Express + Listen",
+      "isNew": false,
+      "part": {
+        "num": "2",
+        "name": "人際連結 Human Connection"
+      },
+      "mergeNote": null,
+      "steps": [
+        "清楚表達 ＋ 用心聆聽",
+        "明白對方真正的關注",
+        "減少誤會",
+        "合作更順利"
+      ],
+      "skeleton": "clear expression + careful listening → understand real issue → fewer misunderstandings",
+      "bodies": [
+        {
+          "type": "body",
+          "label": null,
+          "text": "Good communication depends both on expressing ideas clearly and listening carefully to other people. An idea may be useful, but if it is explained poorly, other people will misunderstand it. At the same time, someone who focuses only on preparing their own reply often fails to understand the other person's real concern. By learning to explain ideas clearly and respond to what others actually say, people reduce misunderstandings and cooperate more effectively."
+        }
+      ],
+      "transferableRaw": "teamwork / friendship / family / workplace / leadership / conflict",
+      "transferable": [
+        "teamwork",
+        "friendship",
+        "family",
+        "workplace",
+        "leadership",
+        "conflict"
+      ],
+      "avoid": null,
+      "extraNotes": [],
+      "tier": 3
+    },
+    {
+      "id": "M11",
+      "zh": "衝突 → 討論 → 更佳方案",
+      "en": "Conflict → Discussion → Better Solution",
+      "isNew": false,
+      "part": {
+        "num": "2",
+        "name": "人際連結 Human Connection"
+      },
+      "mergeNote": null,
+      "steps": [
+        "意見不同",
+        "隱藏的問題浮現",
+        "互相說明理由",
+        "妥協或得出更好的方案"
+      ],
+      "skeleton": "disagreement → hidden problem revealed → discussion → compromise/better solution",
+      "bodies": [
+        {
+          "type": "body",
+          "label": null,
+          "text": "Disagreement is not always negative, because it reveals problems that would otherwise remain hidden. If people avoid expressing different views simply to keep the peace, weak ideas are never questioned. A respectful discussion gives each side a chance to explain its concerns and consider alternatives. When people focus on the issue rather than attacking one another, disagreement leads to better understanding and sometimes a stronger solution than immediate agreement."
+        }
+      ],
+      "transferableRaw": "group projects / family / workplace / school decisions / community issues",
+      "transferable": [
+        "group projects",
+        "family",
+        "workplace",
+        "school decisions",
+        "community issues"
+      ],
+      "avoid": null,
+      "extraNotes": [],
+      "tier": 3
+    },
+    {
+      "id": "M62",
+      "zh": "榜樣與社會影響",
+      "en": "Role Models / Social Influence",
+      "isNew": false,
+      "part": {
+        "num": "2",
+        "name": "人際連結 Human Connection"
+      },
+      "mergeNote": null,
+      "steps": [
+        "仰慕某人",
+        "觀察其行為",
+        "加以模仿",
+        "行為擴散開去"
+      ],
+      "skeleton": "admire someone → observe → copy → behaviour spreads",
+      "bodies": [
+        {
+          "type": "body",
+          "label": null,
+          "text": "Role models influence behaviour because people often copy those they admire or respect. Young people may become more interested in reading, sport, volunteering or a particular career once they see a successful person taking part in the same activity. This influence can be positive, but popularity alone does not guarantee that the behaviour or advice is sensible. People should therefore learn from role models without giving up their own judgement."
+        }
+      ],
+      "transferableRaw": "celebrities / athletes / influencers / career choice / healthy habits",
+      "transferable": [
+        "celebrities",
+        "athletes",
+        "influencers",
+        "career choice",
+        "healthy habits"
+      ],
+      "avoid": null,
+      "extraNotes": [],
+      "tier": 3
+    },
+    {
+      "id": "M63",
+      "zh": "同儕壓力與社會常規",
+      "en": "Peer Pressure / Social Norms",
+      "isNew": false,
+      "part": {
+        "num": "2",
+        "name": "人際連結 Human Connection"
+      },
+      "mergeNote": null,
+      "steps": [
+        "身邊人都這樣做",
+        "感覺這是正常",
+        "害怕被排斥",
+        "跟着照做"
+      ],
+      "skeleton": "friends do X → feels normal → fear of exclusion → copy behaviour",
+      "bodies": [
+        {
+          "type": "body",
+          "label": null,
+          "text": "People are often influenced by what those around them consider normal. If most friends buy a certain product, follow a trend or take part in an activity, an individual feels pressure to do the same simply to avoid being left out. Over time, repeated behaviour within a group becomes a social norm even when nobody has carefully considered whether it is useful. Young people should therefore recognise the difference between making a personal choice and simply following the crowd."
+        }
+      ],
+      "transferableRaw": "fashion / social media / spending / school culture / consumerism",
+      "transferable": [
+        "fashion",
+        "social media",
+        "spending",
+        "school culture",
+        "consumerism"
+      ],
+      "avoid": null,
+      "extraNotes": [],
+      "tier": 3
+    },
+    {
+      "id": "M64",
+      "zh": "關係質素勝於數量",
+      "en": "Quality of Relationships > Quantity",
+      "isNew": false,
+      "part": {
+        "num": "2",
+        "name": "人際連結 Human Connection"
+      },
+      "mergeNote": null,
+      "steps": [
+        "朋友多 ≠ 支持強",
+        "少而深比多而淺可靠",
+        "質素比數量重要"
+      ],
+      "skeleton": "many contacts ≠ deep support → quality > quantity",
+      "bodies": [
+        {
+          "type": "body",
+          "label": null,
+          "text": "Having a large number of social contacts does not necessarily mean that a person has strong relationships. Someone may know many people online or at school but still feel unable to share personal problems or ask for help when needed. A smaller number of close relationships provides greater trust, understanding and emotional support. The quality of social connections is therefore more important than simply increasing the number of people someone knows."
+        }
+      ],
+      "transferableRaw": "social media / friendship / online friends / loneliness / popularity",
+      "transferable": [
+        "social media",
+        "friendship",
+        "online friends",
+        "loneliness",
+        "popularity"
+      ],
+      "avoid": null,
+      "extraNotes": [],
+      "tier": 1
+    },
+    {
+      "id": "M65",
+      "zh": "孤獨 ＝ 缺乏有意義的連結",
+      "en": "Loneliness = Lack of Meaningful Connection",
+      "isNew": false,
+      "part": {
+        "num": "2",
+        "name": "人際連結 Human Connection"
+      },
+      "mergeNote": null,
+      "steps": [
+        "身邊有人 ≠ 被理解",
+        "需要能坦誠溝通的對象",
+        "要的是有意義的連結，不是更多接觸"
+      ],
+      "skeleton": "people around ≠ feeling understood → need meaningful connection",
+      "bodies": [
+        {
+          "type": "body",
+          "label": null,
+          "text": "Loneliness is not simply the result of being physically alone. A person can be surrounded by classmates, colleagues or online contacts and still feel lonely if there is nobody with whom they can communicate honestly. Meaningful relationships provide understanding, trust and emotional support rather than only social contact. Reducing loneliness therefore requires stronger connections, not simply more interaction."
+        }
+      ],
+      "transferableRaw": "elderly people / social media / university / remote work / community",
+      "transferable": [
+        "elderly people",
+        "social media",
+        "university",
+        "remote work",
+        "community"
+      ],
+      "avoid": null,
+      "extraNotes": [],
+      "tier": 3
+    },
+    {
+      "id": "M82",
+      "zh": "面對面 vs 數碼溝通",
+      "en": "Face-to-face vs Digital Communication",
+      "isNew": true,
+      "part": {
+        "num": "2",
+        "name": "人際連結 Human Connection"
+      },
+      "mergeNote": null,
+      "steps": [
+        "文字只傳達字面",
+        "語氣、表情、停頓全部消失",
+        "容易誤讀對方情緒",
+        "重要或情緒化的話宜當面說"
+      ],
+      "skeleton": "text carries words only → tone/expression lost → misread emotion → serious talks in person",
+      "bodies": [
+        {
+          "type": "body",
+          "label": null,
+          "text": "Digital messages carry words, but they leave out much of what listeners actually rely on. Tone of voice, facial expression and pauses all help someone judge whether a speaker is joking, upset or unsure, and none of these survive in a short text. This is why a message meant as a light comment is so easily read as a complaint. Online communication is convenient for quick arrangements, yet difficult or emotional conversations are usually handled better in person."
+        }
+      ],
+      "transferableRaw": "digital communication / online friendship / family / workplace / conflict / smartphones",
+      "transferable": [
+        "digital communication",
+        "online friendship",
+        "family",
+        "workplace",
+        "conflict",
+        "smartphones"
+      ],
+      "avoid": null,
+      "extraNotes": [],
+      "tier": 3
+    },
+    {
+      "id": "M83",
+      "zh": "代溝：經驗不同，不是誰不合理",
+      "en": "Generation Gap: Different Experience, Not Different Worth",
+      "isNew": true,
+      "part": {
+        "num": "2",
+        "name": "人際連結 Human Connection"
+      },
+      "mergeNote": null,
+      "steps": [
+        "兩代成長環境不同",
+        "舊經驗未必仍然適用",
+        "年輕一代亦低估了對方經歷過的困難",
+        "說出理由而非只表態，分歧就縮窄"
+      ],
+      "skeleton": "different times → old advice may not fit → young underestimate past difficulty → explain reasons → gap narrows",
+      "bodies": [
+        {
+          "type": "body",
+          "label": null,
+          "text": "Disagreement between generations usually comes from different experience rather than from one side being unreasonable. Older people formed their views in a period with different job opportunities, technology and social expectations, so advice that once worked may no longer fit. Younger people, on the other hand, often underestimate difficulties they have never faced themselves. Once both sides explain the reason behind an opinion instead of only stating it, the gap becomes much easier to cross."
+        }
+      ],
+      "transferableRaw": "parent-child communication / family relationships / workplace / intergenerational programmes / school rules",
+      "transferable": [
+        "parent-child communication",
+        "family relationships",
+        "workplace",
+        "intergenerational programmes",
+        "school rules"
+      ],
+      "avoid": null,
+      "extraNotes": [],
+      "tier": 3
+    },
+    {
+      "id": "M16",
+      "zh": "興趣 → 動機 → 堅持",
+      "en": "Interest → Motivation → Persistence",
+      "isNew": false,
+      "part": {
+        "num": "3",
+        "name": "學習與進步 Learning & Improvement"
+      },
+      "mergeNote": null,
+      "steps": [
+        "真心感興趣",
+        "願意花時間",
+        "遇到困難仍然繼續",
+        "長遠有進步"
+      ],
+      "skeleton": "genuine interest → willing to spend time → continue when difficult → improvement",
+      "bodies": [
+        {
+          "type": "body",
+          "label": null,
+          "text": "Genuine interest gives people stronger motivation to keep improving. When they are curious about a subject or activity, they are more willing to spend time practising, asking questions and dealing with difficult parts instead of giving up quickly. Interest does not automatically guarantee success, but it makes continued effort far easier to maintain. In the long run, this leads to deeper learning and more steady improvement."
+        }
+      ],
+      "transferableRaw": "subject choice / career choice / reading / hobbies / sports / language learning",
+      "transferable": [
+        "subject choice",
+        "career choice",
+        "reading",
+        "hobbies",
+        "sports",
+        "language learning"
+      ],
+      "avoid": null,
+      "extraNotes": [],
+      "tier": 2
+    },
+    {
+      "id": "M17",
+      "zh": "練習 → 發現弱點 → 改善",
+      "en": "Practice → Find Weakness → Improve",
+      "isNew": false,
+      "part": {
+        "num": "3",
+        "name": "學習與進步 Learning & Improvement"
+      },
+      "mergeNote": null,
+      "steps": [
+        "學會 ≠ 會用",
+        "動手練習",
+        "發現錯誤",
+        "針對弱點改善"
+      ],
+      "skeleton": "understand ≠ can apply → practise → discover weakness → improve",
+      "bodies": [
+        {
+          "type": "body",
+          "label": null,
+          "text": "Practice matters because it shows people what they can and cannot actually do. Understanding an explanation does not always mean that someone can apply it correctly. By completing exercises or trying a skill in practice, people discover mistakes and areas they still find difficult. They can then review these weaknesses, ask for help and improve far more effectively."
+        }
+      ],
+      "transferableRaw": "homework / exam revision / sports / language learning / work training",
+      "transferable": [
+        "homework",
+        "exam revision",
+        "sports",
+        "language learning",
+        "work training"
+      ],
+      "avoid": null,
+      "extraNotes": [],
+      "tier": 3
+    },
+    {
+      "id": "M18",
+      "zh": "回饋 → 更有效的改善",
+      "en": "Feedback → Better Improvement",
+      "isNew": false,
+      "part": {
+        "num": "3",
+        "name": "學習與進步 Learning & Improvement"
+      },
+      "mergeNote": null,
+      "steps": [
+        "作出表現",
+        "得到具體回饋",
+        "知道強項與弱項",
+        "調整方法",
+        "進步"
+      ],
+      "skeleton": "performance → feedback → know strengths/weaknesses → adjust → improve",
+      "bodies": [
+        {
+          "type": "body",
+          "label": null,
+          "text": "Useful feedback helps people improve by showing them exactly what needs to change. A mark or result alone only tells someone whether they performed well, whereas detailed feedback explains why certain parts were successful and where problems occurred. Once people understand the reason behind their mistakes, they can adjust their approach and focus future effort where it is actually needed."
+        }
+      ],
+      "transferableRaw": "exams / teachers / AI feedback / workplace reviews / sports coaching",
+      "transferable": [
+        "exams",
+        "teachers",
+        "AI feedback",
+        "workplace reviews",
+        "sports coaching"
+      ],
+      "avoid": null,
+      "extraNotes": [],
+      "tier": 3
+    },
+    {
+      "id": "M19",
+      "zh": "過量 → 效益遞減 / 休息與平衡",
+      "en": "Too Much → Diminishing Returns / Rest & Balance",
+      "isNew": false,
+      "part": {
+        "num": "3",
+        "name": "學習與進步 Learning & Improvement"
+      },
+      "mergeNote": "舊版 M20（休息與平衡）及 M40（工作與生活平衡）邏輯完全相同，現併入本段。用法：主段照背，按題目換最後一句（見下方兩個替換結 尾）。",
+      "steps": [
+        "起初有幫助",
+        "做得太多",
+        "疲累、壓力上升",
+        "專注力與質素下降",
+        "額外的努力反而回報更少"
+      ],
+      "skeleton": "helpful at first → too much → fatigue → quality falls → less benefit per extra hour",
+      "bodies": [
+        {
+          "type": "body",
+          "label": "主段",
+          "text": "More is not always better. When people spend too much time on the same activity without enough rest, tiredness and stress gradually reduce concentration and performance. The additional hours then produce less useful progress than the earlier ones. For this reason, the quality and amount of an activity should be balanced, rather than assuming that doing more will always produce a better result."
+        }
+      ],
+      "transferableRaw": "homework / revision / working hours / training / screen time / part-time jobs / work-life balance / remote work",
+      "transferable": [
+        "homework",
+        "revision",
+        "working hours",
+        "training",
+        "screen time",
+        "part-time jobs",
+        "work-life balance",
+        "remote work"
+      ],
+      "avoid": null,
+      "extraNotes": [],
+      "tier": 1,
+      "mergedFrom": [
+        {
+          "id": "M40",
+          "zh": "工作與生活平衡",
+          "howto": "替換結尾 ②"
+        },
+        {
+          "id": "M20",
+          "zh": "休息與平衡",
+          "howto": "替換結尾（休息版）"
+        }
+      ]
+    },
+    {
+      "id": "M81",
+      "zh": "閱讀：語言 ＋ 想像力 ＋ 理解他人",
+      "en": "Reading → Language, Imagination, Other Lives",
+      "isNew": true,
+      "part": {
+        "num": "3",
+        "name": "學習與進步 Learning & Improvement"
+      },
+      "mergeNote": null,
+      "steps": [
+        "接觸日常對話中少見的句式與詞彙",
+        "要自行想像畫面，訓練想像力",
+        "跟隨角色的想法，進入別人的人生",
+        "語言與同理心同時提升"
+      ],
+      "skeleton": "unfamiliar language input → imagine what is not shown → enter another person's life → language + empathy",
+      "bodies": [
+        {
+          "type": "body",
+          "label": null,
+          "text": "Reading benefits people in three separate ways. It exposes them to sentence patterns and vocabulary that rarely appear in daily conversation, so their own writing gradually improves. It also asks them to picture people, places and events that are not in front of them, which trains imagination in a way that video does not. Most importantly, following a character's thoughts allows readers to enter lives very different from their own and to understand choices they might otherwise judge far too quickly."
+        }
+      ],
+      "transferableRaw": "reading / books and stories / library / language learning / school reading schemes / empathy / hobbies",
+      "transferable": [
+        "reading",
+        "books and stories",
+        "library",
+        "language learning",
+        "school reading schemes",
+        "empathy",
+        "hobbies"
+      ],
+      "avoid": null,
+      "extraNotes": [],
+      "tier": 3
+    },
+    {
+      "id": "M85",
+      "zh": "習慣養成：細而恆 勝於 大而短",
+      "en": "Habit Formation: Small + Regular > Big + Short",
+      "isNew": true,
+      "part": {
+        "num": "3",
+        "name": "學習與進步 Learning & Improvement"
+      },
+      "mergeNote": null,
+      "steps": [
+        "目標訂得太大",
+        "幾日後放棄",
+        "細小而每日重複",
+        "成為習慣後不再靠動力"
+      ],
+      "skeleton": "target too big → give up → small daily action → becomes routine → no longer needs motivation",
+      "bodies": [
+        {
+          "type": "body",
+          "label": null,
+          "text": "Lasting change usually comes from small actions repeated regularly rather than from short periods of great effort. A person who decides to exercise for two hours every day often gives up within a week, while someone who walks for twenty minutes daily may still be doing it a year later. Once behaviour becomes routine, it no longer depends on motivation, which naturally rises and falls. Setting a target small enough to keep is therefore more useful than setting an impressive one."
+        }
+      ],
+      "transferableRaw": "exercise / healthy eating / sleep / study routine / saving / reading / recycling / screen habits",
+      "transferable": [
+        "exercise",
+        "healthy eating",
+        "sleep",
+        "study routine",
+        "saving",
+        "reading",
+        "recycling",
+        "screen habits"
+      ],
+      "avoid": null,
+      "extraNotes": [],
+      "tier": 2
+    },
+    {
+      "id": "M21",
+      "zh": "體能 → 精力 → 日常表現",
+      "en": "Physical Health → Energy → Daily Performance",
+      "isNew": false,
+      "part": {
+        "num": "4",
+        "name": "身心健康 Health & Well-being"
+      },
+      "mergeNote": null,
+      "steps": [
+        "健康習慣",
+        "體能較佳",
+        "精力較多、不易疲倦",
+        "日常表現較好"
+      ],
+      "skeleton": "healthy habit → better condition → more energy → better performance",
+      "bodies": [
+        {
+          "type": "body",
+          "label": null,
+          "text": "Good physical health improves everyday performance by helping people maintain enough energy. Regular exercise, suitable food and enough rest make it easier to deal with school, work and other responsibilities without becoming tired too quickly. The value of a healthy lifestyle therefore goes beyond avoiding illness; it also affects how effectively people function from day to day."
+        }
+      ],
+      "transferableRaw": "exercise / healthy eating / sleep / sports / healthy lifestyle / preventive health",
+      "transferable": [
+        "exercise",
+        "healthy eating",
+        "sleep",
+        "sports",
+        "healthy lifestyle",
+        "preventive health"
+      ],
+      "avoid": null,
+      "extraNotes": [],
+      "tier": 3
+    },
+    {
+      "id": "M22",
+      "zh": "活動 → 心理喘息 → 減壓",
+      "en": "Activity → Mental Break → Stress Relief",
+      "isNew": false,
+      "part": {
+        "num": "4",
+        "name": "身心健康 Health & Well-being"
+      },
+      "mergeNote": null,
+      "steps": [
+        "壓力累積",
+        "暫時放下問題",
+        "把注意力轉到其他活動",
+        "帶着較清晰的頭腦回來"
+      ],
+      "skeleton": "pressure builds → step away → mental break → return refreshed",
+      "bodies": [
+        {
+          "type": "body",
+          "label": null,
+          "text": "Enjoyable activities provide a healthy break from stress. When people spend many hours focusing on school, work or personal problems, continuing to think about the same issue only makes them feel mentally tired. Exercise, hobbies, outdoor activities or time with friends temporarily shift their attention elsewhere. After this break, they return to their responsibilities with a clearer mind and a better mood."
+        }
+      ],
+      "transferableRaw": "sports / hobbies / travel / nature / music / social activities / mental health",
+      "transferable": [
+        "sports",
+        "hobbies",
+        "travel",
+        "nature",
+        "music",
+        "social activities",
+        "mental health"
+      ],
+      "avoid": null,
+      "extraNotes": [],
+      "tier": 3
+    },
+    {
+      "id": "M23",
+      "zh": "社交比較與消費壓力",
+      "en": "Social Comparison & Consumer Pressure",
+      "isNew": false,
+      "part": {
+        "num": "4",
+        "name": "身心健康 Health & Well-being"
+      },
+      "mergeNote": null,
+      "steps": [
+        "看到別人最好的一面",
+        "與自己的日常相比",
+        "覺得自己不夠好",
+        "自尊下降/不必要的消費"
+      ],
+      "skeleton": "see others' highlights → compare with own ordinary life → feel inferior → pressure (self-esteem 或 spending)",
+      "bodies": [
+        {
+          "type": "body",
+          "label": "自尊版",
+          "text": "Constant comparison with other people creates unnecessary pressure. On social media in particular, users show their most successful or exciting moments while leaving out ordinary problems and failures. Viewers then compare their full everyday life with someone else's carefully selected highlights, which makes them feel less successful even when their own life is perfectly normal."
+        },
+        {
+          "type": "altEnding",
+          "label": "消費版",
+          "text": "(繼續上文) This same comparison also pushes people to buy products they do not need, simply because certain items appear to represent success or popularity. Recognising the difference between a personal need and social pressure helps people make more sensible decisions."
+        }
+      ],
+      "transferableRaw": "social media / influencers / beauty trends / fashion / spending habits / consumerism",
+      "transferable": [
+        "social media",
+        "influencers",
+        "beauty trends",
+        "fashion",
+        "spending habits",
+        "consumerism"
+      ],
+      "avoid": null,
+      "extraNotes": [],
+      "tier": 2
+    },
+    {
+      "id": "M24",
+      "zh": "分心/專注力被打斷",
+      "en": "Distraction / Attention Switching",
+      "isNew": false,
+      "part": {
+        "num": "4",
+        "name": "身心健康 Health & Well-being"
+      },
+      "mergeNote": null,
+      "steps": [
+        "通知與短內容不斷出現",
+        "注意力經常轉移",
+        "難以長時間專注",
+        "需要深度思考的工作質素下降"
+      ],
+      "skeleton": "notifications/short content → attention switches → harder to focus → quality falls",
+      "bodies": [
+        {
+          "type": "body",
+          "label": null,
+          "text": "Frequent distractions make it much harder to concentrate on demanding tasks. Notifications, short videos and constantly changing online content encourage people to move their attention from one thing to another very quickly. Once this becomes a habit, slower activities such as reading, studying or solving a difficult problem begin to feel unusually hard to continue."
+        }
+      ],
+      "transferableRaw": "smartphones / social media / study habits / online learning / screen habits",
+      "transferable": [
+        "smartphones",
+        "social media",
+        "study habits",
+        "online learning",
+        "screen habits"
+      ],
+      "avoid": null,
+      "extraNotes": [],
+      "tier": 3
+    },
+    {
+      "id": "M75",
+      "zh": "綠化空間/大自然 → 身心健康",
+      "en": "Green Space / Nature → Well-being",
+      "isNew": false,
+      "part": {
+        "num": "4",
+        "name": "身心健康 Health & Well-being"
+      },
+      "mergeNote": null,
+      "steps": [
+        "擠迫、對着屏幕的生活",
+        "接觸大自然",
+        "心理喘息 ＋ 身體活動",
+        "身心健康改善"
+      ],
+      "skeleton": "crowded/screen-heavy life → nature → mental break + activity → well-being",
+      "bodies": [
+        {
+          "type": "body",
+          "label": null,
+          "text": "Access to green spaces improves quality of life, especially in crowded urban areas. Parks and natural areas give people somewhere to walk, exercise, relax and spend time away from screens or busy indoor environments. They also provide informal spaces where families and neighbours can meet. Green spaces therefore have psychological, physical and social value rather than serving only an environmental purpose."
+        }
+      ],
+      "transferableRaw": "country parks / green spaces / urban planning / community / environment / outdoor activities",
+      "transferable": [
+        "country parks",
+        "green spaces",
+        "urban planning",
+        "community",
+        "environment",
+        "outdoor activities"
+      ],
+      "avoid": null,
+      "extraNotes": [],
+      "tier": 3
+    },
+    {
+      "id": "M12",
+      "zh": "效率：節省時間 → 轉移用途",
+      "en": "Efficiency: Save Time → Redirect Time",
+      "isNew": false,
+      "part": {
+        "num": "5",
+        "name": "資源與抉擇 Resources & Decision-Making"
+      },
+      "mergeNote": null,
+      "steps": [
+        "減少重複步驟",
+        "省下時間與精力",
+        "把資源轉去更重要的事"
+      ],
+      "skeleton": "reduce routine steps → save time → redirect to higher-value activity",
+      "bodies": [
+        {
+          "type": "body",
+          "label": null,
+          "text": "One major advantage is greater efficiency. By reducing unnecessary travelling, waiting or repetitive tasks, people complete routine work in far less time. The real benefit is not simply doing things faster, but being able to use the saved time and energy for activities that require greater attention, such as study, problem-solving or family responsibilities."
+        }
+      ],
+      "transferableRaw": "AI / online learning / remote work / online shopping / public transport / automation",
+      "transferable": [
+        "AI",
+        "online learning",
+        "remote work",
+        "online shopping",
+        "public transport",
+        "automation"
+      ],
+      "avoid": null,
+      "extraNotes": [],
+      "tier": 1
+    },
+    {
+      "id": "M13",
+      "zh": "可及性/減少門檻",
+      "en": "Accessibility / Reduce Barriers",
+      "isNew": false,
+      "part": {
+        "num": "5",
+        "name": "資源與抉擇 Resources & Decision-Making"
+      },
+      "mergeNote": null,
+      "steps": [
+        "門檻（錢/時間/距離）存在",
+        "新服務降低門檻",
+        "更多人能夠參與",
+        "機會擴大"
+      ],
+      "skeleton": "barrier exists → service reduces barrier → more people participate → opportunity",
+      "bodies": [
+        {
+          "type": "body",
+          "label": null,
+          "text": "Another important benefit is that the service makes opportunities more accessible. People are often prevented from taking part because of distance, cost, time or physical difficulties rather than because they lack interest or ability. Once these barriers are reduced, a much wider range of people can access education, work, transport or community activities."
+        }
+      ],
+      "transferableRaw": "online learning / public transport / libraries / remote work / digital services / accessibility",
+      "transferable": [
+        "online learning",
+        "public transport",
+        "libraries",
+        "remote work",
+        "digital services",
+        "accessibility"
+      ],
+      "avoid": null,
+      "extraNotes": [],
+      "tier": 2
+    },
+    {
+      "id": "M14",
+      "zh": "成本 → 使用機會不平等",
+      "en": "Cost → Unequal Access → Inequality",
+      "isNew": false,
+      "part": {
+        "num": "5",
+        "name": "資源與抉擇 Resources & Decision-Making"
+      },
+      "mergeNote": "舊版 M71（數碼鴻溝）邏輯與本段相同，只是把「錢」換成「裝置與技能」。主段照背，需要時換第二個結尾。",
+      "steps": [
+        "有用的機會存在",
+        "收費高昂",
+        "只有較富裕的人負擔得起",
+        "其他人被排除",
+        "機會變得不平等"
+      ],
+      "skeleton": "useful opportunity → high cost → only wealthier access it → unequal opportunity",
+      "bodies": [
+        {
+          "type": "body",
+          "label": "金錢版",
+          "text": "High cost makes an otherwise useful opportunity much less fair. People from wealthier families can pay for extra lessons, technology, travel or other forms of support, while those with fewer financial resources are simply excluded. As a result, success depends partly on what a person can afford rather than only on effort or ability."
+        },
+        {
+          "type": "altEnding",
+          "label": "數碼鴻溝版",
+          "text": "(繼續上文) The same problem appears as education, work and public services move online. A digital service may be efficient for most users while still creating serious barriers for elderly people or lower-income families who lack suitable devices, internet access or digital skills. Support or alternative methods therefore remain necessary for some groups."
+        }
+      ],
+      "transferableRaw": "private tutoring / paid AI tools / exchange programmes / university / sports training / digital divide / government services / banking",
+      "transferable": [
+        "private tutoring",
+        "paid AI tools",
+        "exchange programmes",
+        "university",
+        "sports training",
+        "digital divide",
+        "government services",
+        "banking"
+      ],
+      "avoid": null,
+      "extraNotes": [],
+      "tier": 1,
+      "mergedFrom": [
+        {
+          "id": "M71",
+          "zh": "數碼鴻溝",
+          "howto": "替換結尾（數碼鴻溝版）"
+        }
+      ]
+    },
+    {
+      "id": "M15",
+      "zh": "公平 ≠ 一視同仁",
+      "en": "Fairness: Same Treatment ≠ Equal Opportunity",
+      "isNew": false,
+      "part": {
+        "num": "5",
+        "name": "資源與抉擇 Resources & Decision-Making"
+      },
+      "mergeNote": null,
+      "steps": [
+        "每人得到同樣待遇",
+        "但起點各不相同",
+        "同樣待遇未必帶來同樣結果",
+        "需要額外支援才算公平"
+      ],
+      "skeleton": "same treatment → different starting points → still unequal outcome → extra support needed",
+      "bodies": [
+        {
+          "type": "body",
+          "label": null,
+          "text": "Fairness does not always mean treating everyone in exactly the same way. People begin with very different levels of money, support, ability or access to resources. Giving everyone the same opportunity on paper therefore still leaves some groups facing much greater barriers in practice. Providing additional support to those facing greater difficulties creates a fairer chance to participate."
+        }
+      ],
+      "transferableRaw": "education / digital divide / elderly support / disability access / financial aid / inequality",
+      "transferable": [
+        "education",
+        "digital divide",
+        "elderly support",
+        "disability access",
+        "financial aid",
+        "inequality"
+      ],
+      "avoid": null,
+      "extraNotes": [],
+      "tier": 3
+    },
+    {
+      "id": "M31",
+      "zh": "短期利益 vs 長期後果",
+      "en": "Short-term Benefit vs Long-term Consequence",
+      "isNew": false,
+      "part": {
+        "num": "5",
+        "name": "資源與抉擇 Resources & Decision-Making"
+      },
+      "mergeNote": null,
+      "steps": [
+        "即時好處吸引",
+        "重複或長期地做",
+        "將來要付更大代價"
+      ],
+      "skeleton": "immediate benefit → repeated → larger future cost",
+      "bodies": [
+        {
+          "type": "body",
+          "label": null,
+          "text": "When making a decision, people should consider long-term consequences rather than focusing only on immediate benefits. A choice may save money, provide convenience or create enjoyment in the short term, yet repeated decisions of the same kind gradually lead to much larger problems in the future. A good decision should therefore be judged not only by what it provides today, but also by whether the benefit is worth its possible long-term cost."
+        }
+      ],
+      "transferableRaw": "幾乎所有社會/科技/健康/環境題目都能用。萬能程度最高，最適合做結論段。",
+      "transferable": null,
+      "avoid": null,
+      "extraNotes": [],
+      "tier": 1
+    },
+    {
+      "id": "M32",
+      "zh": "機會成本/資源有限",
+      "en": "Opportunity Cost / Limited Time or Budget",
+      "isNew": false,
+      "part": {
+        "num": "5",
+        "name": "資源與抉擇 Resources & Decision-Making"
+      },
+      "mergeNote": "舊版 M56（公共開支的機會成本）與本段是同一條邏輯，只是把「時間」換成「公帑」。主段背個人版，寫政策題時換結尾。",
+      "steps": [
+        "資源有限",
+        "投放在 A 多一點",
+        "留給 B 的自然少一點",
+        "每個選擇背後都有隱藏代價"
+      ],
+      "skeleton": "limited resource → more on A → less for B → hidden cost",
+      "bodies": [
+        {
+          "type": "body",
+          "label": "個人時間版",
+          "text": "Time is limited, so spending more of it on one activity necessarily means having less for something else. A student may benefit from a part-time job, an extracurricular activity or an additional course, but an overloaded schedule reduces the time available for study, rest and family life. The value of an activity should therefore be judged not only by its direct benefits but also by what a person has to give up."
+        },
+        {
+          "type": "altEnding",
+          "label": "公共開支版",
+          "text": "(繼續上文) Public money works in exactly the same way. Spending more on a new facility leaves less for schools, transport or healthcare, so a proposal should be judged not only by whether it provides benefits, but also by whether those benefits justify what society gives up elsewhere."
+        }
+      ],
+      "transferableRaw": "part-time jobs / extracurricular activities / homework / gaming / public facilities / festivals / government policy / taxation",
+      "transferable": [
+        "part-time jobs",
+        "extracurricular activities",
+        "homework",
+        "gaming",
+        "public facilities",
+        "festivals",
+        "government policy",
+        "taxation"
+      ],
+      "avoid": null,
+      "extraNotes": [],
+      "tier": 3,
+      "mergedFrom": [
+        {
+          "id": "M56",
+          "zh": "公共開支的機會成本",
+          "howto": "替換結尾（公共開支版）"
+        }
+      ]
+    },
+    {
+      "id": "M33",
+      "zh": "金錢 → 保障 → 選擇自由",
+      "en": "Money → Security → Freedom of Choice",
+      "isNew": false,
+      "part": {
+        "num": "5",
+        "name": "資源與抉擇 Resources & Decision-Making"
+      },
+      "mergeNote": null,
+      "steps": [
+        "穩定收入或儲蓄",
+        "基本需要有保障",
+        "財務壓力減少",
+        "選擇自由增加"
+      ],
+      "skeleton": "stable income → basic needs covered → less pressure → more choices",
+      "bodies": [
+        {
+          "type": "body",
+          "label": null,
+          "text": "Money matters because financial security gives people greater freedom to make choices about their lives. Once basic needs such as housing, food and transport are covered without constant worry, people are in a far better position to plan for education, emergencies or future goals. Money does not guarantee happiness, but having enough of it removes a great deal of unnecessary pressure."
+        }
+      ],
+      "transferableRaw": "salary / career / saving / part-time work / financial pressure",
+      "transferable": [
+        "salary",
+        "career",
+        "saving",
+        "part-time work",
+        "financial pressure"
+      ],
+      "avoid": null,
+      "extraNotes": [],
+      "tier": 3
+    },
+    {
+      "id": "M34",
+      "zh": "儲蓄 → 延遲滿足",
+      "en": "Saving → Delayed Gratification",
+      "isNew": false,
+      "part": {
+        "num": "5",
+        "name": "資源與抉擇 Resources & Decision-Making"
+      },
+      "mergeNote": null,
+      "steps": [
+        "不立即花光",
+        "放棄少許即時享受",
+        "日後有錢應急或達成目標"
+      ],
+      "skeleton": "don't spend everything now → wait → money available for emergency/goal",
+      "bodies": [
+        {
+          "type": "body",
+          "label": null,
+          "text": "Saving money requires people to balance present enjoyment against future needs. Spending provides immediate satisfaction, whereas keeping part of one's income or allowance creates a financial reserve for emergencies or larger future goals. Learning to wait for some short-term enjoyment provides greater security and makes people far less dependent on borrowing."
+        }
+      ],
+      "transferableRaw": "teenagers and money / allowance / part-time jobs / consumerism / financial literacy",
+      "transferable": [
+        "teenagers and money",
+        "allowance",
+        "part-time jobs",
+        "consumerism",
+        "financial literacy"
+      ],
+      "avoid": null,
+      "extraNotes": [],
+      "tier": 3
+    },
+    {
+      "id": "M36",
+      "zh": "價格 vs 品質/長遠價值",
+      "en": "Price vs Quality / Long-term Value",
+      "isNew": false,
+      "part": {
+        "num": "5",
+        "name": "資源與抉擇 Resources & Decision-Making"
+      },
+      "mergeNote": null,
+      "steps": [
+        "便宜",
+        "品質差、壽命短",
+        "經常要更換",
+        "長遠反而更貴"
+      ],
+      "skeleton": "cheap → poor quality/short life → replace often → higher total cost",
+      "bodies": [
+        {
+          "type": "body",
+          "label": null,
+          "text": "The cheapest option is not always the most economical in the long run. A low-priced product looks attractive at first, but if it is poorly made and needs to be replaced frequently, the total cost eventually becomes higher than that of a better one. Consumers should therefore consider durability and usefulness rather than judging value only by the price on the label."
+        }
+      ],
+      "transferableRaw": "clothes / electronics / shopping / fast fashion / environmental products",
+      "transferable": [
+        "clothes",
+        "electronics",
+        "shopping",
+        "fast fashion",
+        "environmental products"
+      ],
+      "avoid": null,
+      "extraNotes": [],
+      "tier": 3
+    },
+    {
+      "id": "M69",
+      "zh": "選擇多元化/個人化",
+      "en": "Choice / Variety / Personalisation",
+      "isNew": false,
+      "part": {
+        "num": "5",
+        "name": "資源與抉擇 Resources & Decision-Making"
+      },
+      "mergeNote": null,
+      "steps": [
+        "每人需要不同",
+        "單一方案未必人人適合",
+        "選擇多",
+        "更貼合個人需要"
+      ],
+      "skeleton": "different needs → one option doesn't fit all → more choice → better fit",
+      "bodies": [
+        {
+          "type": "body",
+          "label": null,
+          "text": "Providing a reasonable range of choices helps people find an option that suits their own needs. Students, customers and workers have different interests, abilities, schedules and priorities, so one fixed solution is unlikely to work equally well for everyone. Greater choice therefore increases both satisfaction and participation."
+        }
+      ],
+      "transferableRaw": "education / food / entertainment / work arrangements / personalised content",
+      "transferable": [
+        "education",
+        "food",
+        "entertainment",
+        "work arrangements",
+        "personalised content"
+      ],
+      "avoid": null,
+      "extraNotes": [],
+      "tier": 3
+    },
+    {
+      "id": "M70",
+      "zh": "選擇過多 → 難以決定",
+      "en": "Too Much Choice → Decision Difficulty",
+      "isNew": false,
+      "part": {
+        "num": "5",
+        "name": "資源與抉擇 Resources & Decision-Making"
+      },
+      "mergeNote": null,
+      "steps": [
+        "選項太多",
+        "比較過程耗時",
+        "混亂或拖延決定"
+      ],
+      "skeleton": "more options → more comparison → confusion/delay",
+      "bodies": [
+        {
+          "type": "body",
+          "label": null,
+          "text": "However, more choice is not always better. When people face too many similar options, comparing every small difference becomes confusing and time-consuming. They may delay the decision altogether, or worry afterwards that another option would have been better. A useful system should therefore provide enough variety without making the decision unnecessarily complicated."
+        }
+      ],
+      "transferableRaw": "shopping / streaming / university courses / career options",
+      "transferable": [
+        "shopping",
+        "streaming",
+        "university courses",
+        "career options"
+      ],
+      "avoid": null,
+      "extraNotes": [
+        "與 M69 天生一對，discuss 題可以正反連用。"
+      ],
+      "tier": 3
+    },
+    {
+      "id": "M78",
+      "zh": "品質/使用體驗",
+      "en": "Quality / User Experience",
+      "isNew": false,
+      "part": {
+        "num": "5",
+        "name": "資源與抉擇 Resources & Decision-Making"
+      },
+      "mergeNote": null,
+      "steps": [
+        "基本功能有用",
+        "≠ 用起來舒服可靠",
+        "體驗決定是否再來"
+      ],
+      "skeleton": "works ≠ pleasant/reliable to use → experience decides return",
+      "bodies": [
+        {
+          "type": "body",
+          "label": null,
+          "text": "The quality of an experience depends on far more than whether a service performs its basic function. Comfort, reliability, ease of use and the way people are treated all affect whether customers are satisfied and willing to return. Organisations should therefore consider the full user experience rather than focusing only on price or basic efficiency."
+        }
+      ],
+      "transferableRaw": "restaurants / transport / tourism / apps / public facilities / accessibility",
+      "transferable": [
+        "restaurants",
+        "transport",
+        "tourism",
+        "apps",
+        "public facilities",
+        "accessibility"
+      ],
+      "avoid": null,
+      "extraNotes": [],
+      "tier": 3
+    },
+    {
+      "id": "M79",
+      "zh": "樂趣/難忘經歷",
+      "en": "Enjoyment / Memorable Experience",
+      "isNew": false,
+      "part": {
+        "num": "5",
+        "name": "資源與抉擇 Resources & Decision-Making"
+      },
+      "mergeNote": null,
+      "steps": [
+        "經歷愉快",
+        "產生正面情緒",
+        "記憶更深刻",
+        "更願意再參與或分享"
+      ],
+      "skeleton": "enjoyable → positive emotion → memorable → willing to repeat/share",
+      "bodies": [
+        {
+          "type": "body",
+          "label": null,
+          "text": "Enjoyment makes an activity far more memorable and encourages people to take part again. When an experience is interesting, comfortable or emotionally meaningful, people remember it positively and share it with others. This matters especially for activities that depend on voluntary participation, such as cultural events, tourism and hobbies."
+        }
+      ],
+      "transferableRaw": "travel / events / school activities / culture / hobbies / festivals",
+      "transferable": [
+        "travel",
+        "events",
+        "school activities",
+        "culture",
+        "hobbies",
+        "festivals"
+      ],
+      "avoid": null,
+      "extraNotes": [],
+      "tier": 3
+    },
+    {
+      "id": "M80",
+      "zh": "可行性",
+      "en": "Practicality / Feasibility",
+      "isNew": false,
+      "part": {
+        "num": "5",
+        "name": "資源與抉擇 Resources & Decision-Making"
+      },
+      "mergeNote": null,
+      "steps": [
+        "意念聽起來很好",
+        "但要看金錢、時間、人手、參與度",
+        "才能判斷是否真的行得通"
+      ],
+      "skeleton": "good idea → check cost/time/staff/participation → can it actually work?",
+      "bodies": [
+        {
+          "type": "body",
+          "label": null,
+          "text": "A good idea is useful only if it can be carried out realistically. A programme may provide clear benefits and still fail if it requires too much money, staff, time or equipment, or if very few people are willing to take part. Decision-makers should therefore consider both the expected benefits and whether the available resources are sufficient to keep the programme running."
+        }
+      ],
+      "transferableRaw": "school programmes / government policy / community projects / tourism。最適合做結論段（與 M31 二選一）。",
+      "transferable": [
+        "school programmes",
+        "government policy",
+        "community projects",
+        "tourism。最適合做結論段（與 M31 二選一）。"
+      ],
+      "avoid": null,
+      "extraNotes": [
+        "與 M31 二選一）。6. 科技與資訊 Technology & Information"
+      ],
+      "tier": 1
+    },
+    {
+      "id": "M25",
+      "zh": "科技依賴 → 技能流失",
+      "en": "Technology Dependence → Skill Loss",
+      "isNew": false,
+      "part": {
+        "num": "6",
+        "name": "科技與資訊 Technology & Information"
+      },
+      "mergeNote": null,
+      "steps": [
+        "科技一直代勞",
+        "人不再練習",
+        "技能變弱",
+        "科技失靈時出問題"
+      ],
+      "skeleton": "technology always does the task → skill weakens → dependence → problem when unavailable",
+      "bodies": [
+        {
+          "type": "body",
+          "label": null,
+          "text": "Over-reliance on technology weakens skills that people no longer practise for themselves. If someone always depends on AI, navigation apps or automatic translation to complete basic tasks, they gradually lose confidence in doing those tasks independently. This becomes especially serious when the technology is unavailable or produces an incorrect result. Technology is most useful when it supports human ability rather than replacing every opportunity to think and practise."
+        }
+      ],
+      "transferableRaw": "AI / GPS / translation tools / calculators / automation / self-driving technology",
+      "transferable": [
+        "AI",
+        "GPS",
+        "translation tools",
+        "calculators",
+        "automation",
+        "self-driving technology"
+      ],
+      "avoid": null,
+      "extraNotes": [],
+      "tier": 2
+    },
+    {
+      "id": "M26",
+      "zh": "資訊獲取 → 自主學習",
+      "en": "Information Access → Independent Learning",
+      "isNew": false,
+      "part": {
+        "num": "6",
+        "name": "科技與資訊 Technology & Information"
+      },
+      "mergeNote": null,
+      "steps": [
+        "上網可得大量資訊",
+        "不再只靠一本書、一位老師",
+        "按自己需要探索",
+        "自主學習"
+      ],
+      "skeleton": "online access → many sources → learn beyond classroom → independent learning",
+      "bodies": [
+        {
+          "type": "body",
+          "label": null,
+          "text": "Easy access to information supports independent learning. People no longer need to depend only on one textbook, one teacher or a nearby library when they want to understand a topic. Online articles, videos and learning materials offer different explanations of the same idea and allow users to explore whichever areas they personally find difficult."
+        }
+      ],
+      "transferableRaw": "internet / online learning / AI / libraries / lifelong learning",
+      "transferable": [
+        "internet",
+        "online learning",
+        "AI",
+        "libraries",
+        "lifelong learning"
+      ],
+      "avoid": null,
+      "extraNotes": [],
+      "tier": 3
+    },
+    {
+      "id": "M27",
+      "zh": "批判思考/可信度",
+      "en": "Critical Thinking / Credibility",
+      "isNew": false,
+      "part": {
+        "num": "6",
+        "name": "科技與資訊 Technology & Information"
+      },
+      "mergeNote": null,
+      "steps": [
+        "看到一個說法",
+        "問：誰說的？有何證據？有何動機？",
+        "比較不同來源",
+        "自己作判斷"
+      ],
+      "skeleton": "claim → check source/evidence/motive → compare sources → independent judgement",
+      "bodies": [
+        {
+          "type": "body",
+          "label": null,
+          "text": "People should not accept information simply because it sounds convincing or has been widely shared. A careful reader considers who provided the information, what evidence supports it and whether the source has any reason to influence the audience. Comparing more than one reliable source also reveals missing details and conflicting views that a single article would never show."
+        }
+      ],
+      "transferableRaw": "news / AI answers / online reviews / health information / advertising / misinformation",
+      "transferable": [
+        "news",
+        "AI answers",
+        "online reviews",
+        "health information",
+        "advertising",
+        "misinformation"
+      ],
+      "avoid": null,
+      "extraNotes": [],
+      "tier": 1
+    },
+    {
+      "id": "M28",
+      "zh": "錯誤資訊 → 傳播快、糾正慢",
+      "en": "Misinformation → Fast Spread, Slow Correction",
+      "isNew": false,
+      "part": {
+        "num": "6",
+        "name": "科技與資訊 Technology & Information"
+      },
+      "mergeNote": null,
+      "steps": [
+        "誇張或震撼的說法",
+        "未查證就轉發",
+        "反覆出現，看似可信",
+        "糾正卻很慢"
+      ],
+      "skeleton": "emotional claim → shared fast → appears believable → correction is slow",
+      "bodies": [
+        {
+          "type": "body",
+          "label": null,
+          "text": "False information spreads quickly online because people share emotional or surprising content before checking whether it is accurate. Once the same claim appears repeatedly, it begins to look more believable simply because so many people have seen it. Correcting the mistake is much harder, since the explanation takes longer to read and rarely reaches everyone who saw the original post."
+        }
+      ],
+      "transferableRaw": "social media / AI-generated content / health advice / rumours / news",
+      "transferable": [
+        "social media",
+        "AI-generated content",
+        "health advice",
+        "rumours",
+        "news"
+      ],
+      "avoid": null,
+      "extraNotes": [],
+      "tier": 2
+    },
+    {
+      "id": "M29",
+      "zh": "私隱/個人資料",
+      "en": "Privacy / Personal Data",
+      "isNew": false,
+      "part": {
+        "num": "6",
+        "name": "科技與資訊 Technology & Information"
+      },
+      "mergeNote": null,
+      "steps": [
+        "平台收集資料",
+        "換取方便與個人化服務",
+        "但資料可能被查閱或濫用",
+        "私隱風險"
+      ],
+      "skeleton": "data collected → convenience/personalisation → risk of misuse → privacy concern",
+      "bodies": [
+        {
+          "type": "body",
+          "label": null,
+          "text": "Digital convenience usually comes at the cost of sharing personal information. Online services collect location, search history or preferences in order to provide faster and more personalised results. Users, however, rarely know how much information is being stored or exactly who can access it. People should still have reasonable control over their own personal data."
+        }
+      ],
+      "transferableRaw": "apps / AI / social media / online shopping / smart devices",
+      "transferable": [
+        "apps",
+        "AI",
+        "social media",
+        "online shopping",
+        "smart devices"
+      ],
+      "avoid": null,
+      "extraNotes": [],
+      "tier": 3
+    },
+    {
+      "id": "M30",
+      "zh": "數碼足跡/名譽",
+      "en": "Digital Footprint / Reputation",
+      "isNew": false,
+      "part": {
+        "num": "6",
+        "name": "科技與資訊 Technology & Information"
+      },
+      "mergeNote": null,
+      "steps": [
+        "現在張貼一張相片",
+        "可被儲存與轉發",
+        "多年後仍然存在",
+        "影響將來的名譽與機會"
+      ],
+      "skeleton": "post now → saved/shared → remains later → future reputation affected",
+      "bodies": [
+        {
+          "type": "body",
+          "label": null,
+          "text": "People should remember that online actions have consequences long after the original moment has passed. A photo, comment or video feels temporary when it is posted, yet other users can save, copy or share it even after the original has been removed. Old content may later affect how schools, employers or other people view someone."
+        }
+      ],
+      "transferableRaw": "social media / job applications / students / public figures / influencers",
+      "transferable": [
+        "social media",
+        "job applications",
+        "students",
+        "public figures",
+        "influencers"
+      ],
+      "avoid": null,
+      "extraNotes": [],
+      "tier": 3
+    },
+    {
+      "id": "M61",
+      "zh": "信任/名譽",
+      "en": "Trust / Reputation",
+      "isNew": false,
+      "part": {
+        "num": "6",
+        "name": "科技與資訊 Technology & Information"
+      },
+      "mergeNote": null,
+      "steps": [
+        "一直守信、準確",
+        "別人開始信任你",
+        "合作機會增加",
+        "名譽是長期累積的資產"
+      ],
+      "skeleton": "reliable behaviour → trust builds → more cooperation → reputation as an asset",
+      "bodies": [
+        {
+          "type": "body",
+          "label": null,
+          "text": "Trust and reputation strongly influence how willing people are to cooperate with a person or an organisation. When someone repeatedly keeps promises, provides accurate information and treats others fairly, people gradually learn that they can rely on them. This trust leads to stronger relationships, more customers and greater opportunities."
+        }
+      ],
+      "transferableRaw": "business / school / charity / influencers / public institutions / advertising",
+      "transferable": [
+        "business",
+        "school",
+        "charity",
+        "influencers",
+        "public institutions",
+        "advertising"
+      ],
+      "avoid": null,
+      "extraNotes": [],
+      "tier": 3
+    },
+    {
+      "id": "M72",
+      "zh": "自動化 → 職業轉型/再培訓",
+      "en": "Automation → Job Change / Reskilling",
+      "isNew": false,
+      "part": {
+        "num": "6",
+        "name": "科技與資訊 Technology & Information"
+      },
+      "mergeNote": null,
+      "steps": [
+        "重複性工作被機器取代",
+        "但新職位同時出現",
+        "工人未必具備新技能",
+        "教育與培訓要幫人轉型"
+      ],
+      "skeleton": "routine tasks automated → some roles shrink → new skills needed → retraining",
+      "bodies": [
+        {
+          "type": "body",
+          "label": null,
+          "text": "Automation changes the type of work people do rather than simply removing every job. Repetitive tasks are increasingly handled by machines or software, while work involving judgement and communication becomes more important. The real difficulty is that workers do not automatically possess the skills required for these new roles. Education and training therefore need to help people adapt."
+        }
+      ],
+      "transferableRaw": "AI / robots / future of work / career planning / job security",
+      "transferable": [
+        "AI",
+        "robots",
+        "future of work",
+        "career planning",
+        "job security"
+      ],
+      "avoid": null,
+      "extraNotes": [],
+      "tier": 3
+    },
+    {
+      "id": "M84",
+      "zh": "演算法/同溫層",
+      "en": "Algorithms → A Narrower View",
+      "isNew": true,
+      "part": {
+        "num": "6",
+        "name": "科技與資訊 Technology & Information"
+      },
+      "mergeNote": null,
+      "steps": [
+        "平台記錄你點擊過什麼",
+        "不斷推送同類內容",
+        "其他觀點在畫面上消失",
+        "一種意見看起來像唯一的意見"
+      ],
+      "skeleton": "platform records clicks → shows more of the same → other views disappear → one opinion looks like the only one",
+      "bodies": [
+        {
+          "type": "body",
+          "label": null,
+          "text": "Personalised content is convenient, yet it quietly narrows what people see. Platforms record what users click on and then show them more of the same, so someone interested in one opinion, hobby or product is gradually surrounded by it. The danger is not that this content is false, but that other views disappear from the screen entirely, which makes a single opinion look like the only reasonable one. Users should therefore search actively instead of accepting whatever is recommended to them."
+        }
+      ],
+      "transferableRaw": "social media / news / online shopping / AI / misinformation / online information",
+      "transferable": [
+        "social media",
+        "news",
+        "online shopping",
+        "AI",
+        "misinformation",
+        "online information"
+      ],
+      "avoid": null,
+      "extraNotes": [],
+      "tier": 3
+    },
+    {
+      "id": "M37",
+      "zh": "選科/選職業：興趣 ＋ 能力 ＋ 現實需要",
+      "en": "Career Choice",
+      "isNew": false,
+      "part": {
+        "num": "7",
+        "name": "職業與金錢 Career & Money"
+      },
+      "mergeNote": null,
+      "steps": [
+        "興趣提供動機",
+        "能力影響表現",
+        "薪金與前景影響生活",
+        "三者要平衡"
+      ],
+      "skeleton": "interest + ability + income/conditions → better fit",
+      "bodies": [
+        {
+          "type": "body",
+          "label": null,
+          "text": "Choosing a career should involve more than simply following either money or personal interest. Interest provides motivation, while a person's strengths affect how well they are likely to perform in a particular field. At the same time, salary, job opportunities and working conditions determine whether the career can support the life they want. A sensible career choice therefore balances personal fit against practical needs."
+        }
+      ],
+      "transferableRaw": "career choice / university major / salary vs interest / meaningful work",
+      "transferable": [
+        "career choice",
+        "university major",
+        "salary vs interest",
+        "meaningful work"
+      ],
+      "avoid": null,
+      "extraNotes": [],
+      "tier": 2
+    },
+    {
+      "id": "M38",
+      "zh": "工作體驗 → 真實了解職業",
+      "en": "Work Experience → Real Career Understanding",
+      "isNew": false,
+      "part": {
+        "num": "7",
+        "name": "職業與金錢 Career & Money"
+      },
+      "mergeNote": null,
+      "steps": [
+        "對職業的想像多來自媒體",
+        "真實實習或兼職",
+        "看到實際工作內容",
+        "判斷是否適合自己"
+      ],
+      "skeleton": "imagined career → real experience → see actual tasks → better decision",
+      "bodies": [
+        {
+          "type": "body",
+          "label": null,
+          "text": "Practical work experience gives young people a far more realistic understanding of a career. Before entering a workplace, students judge a job mainly by its salary, its reputation or the way it is presented online. Internships and part-time work let them experience the actual tasks and workplace relationships involved, which helps them decide whether the career genuinely suits them."
+        }
+      ],
+      "transferableRaw": "internships / part-time work / summer programmes / study tours",
+      "transferable": [
+        "internships",
+        "part-time work",
+        "summer programmes",
+        "study tours"
+      ],
+      "avoid": null,
+      "extraNotes": [],
+      "tier": 3
+    },
+    {
+      "id": "M39",
+      "zh": "人際網絡 → 資訊與機會",
+      "en": "Networking → Information / Opportunities",
+      "isNew": false,
+      "part": {
+        "num": "7",
+        "name": "職業與金錢 Career & Money"
+      },
+      "mergeNote": null,
+      "steps": [
+        "認識業內的人",
+        "交換資訊與建議",
+        "得知機會",
+        "獲得介紹或推薦"
+      ],
+      "skeleton": "meet people in field → exchange information → learn of opportunities → access",
+      "bodies": [
+        {
+          "type": "body",
+          "label": null,
+          "text": "Building professional relationships gives people access to information and opportunities that are difficult to find alone. Teachers, colleagues or people already working in the same field share advice, introduce useful resources and pass on news about job openings. Networking should not mean using other people for personal benefit; it works best as a genuine relationship in which information is shared over time."
+        }
+      ],
+      "transferableRaw": "university / internships / career fairs / workplace / entrepreneurship",
+      "transferable": [
+        "university",
+        "internships",
+        "career fairs",
+        "workplace",
+        "entrepreneurship"
+      ],
+      "avoid": null,
+      "extraNotes": [],
+      "tier": 3
+    },
+    {
+      "id": "M41",
+      "zh": "文化 → 身份認同 → 歸屬感",
+      "en": "Culture → Identity → Belonging",
+      "isNew": false,
+      "part": {
+        "num": "8",
+        "name": "文化與媒體 Culture & Media"
+      },
+      "mergeNote": null,
+      "steps": [
+        "傳統、語言、飲食承載共同歷史",
+        "明白自己從何而來",
+        "建立身份認同",
+        "產生歸屬感"
+      ],
+      "skeleton": "shared traditions → understand roots → identity → belonging",
+      "bodies": [
+        {
+          "type": "body",
+          "label": null,
+          "text": "Culture strengthens people's sense of identity by connecting them with a shared history and way of life. Traditions, food, language, festivals and local stories all reflect the experiences of earlier generations. Learning about them helps people understand where their community came from, and this understanding creates a stronger sense of belonging."
+        }
+      ],
+      "transferableRaw": "tea culture / traditional food / festivals / heritage / local identity / local history",
+      "transferable": [
+        "tea culture",
+        "traditional food",
+        "festivals",
+        "heritage",
+        "local identity",
+        "local history"
+      ],
+      "avoid": null,
+      "extraNotes": [],
+      "tier": 3
+    },
+    {
+      "id": "M42",
+      "zh": "文化保育：保留意義，容許改變",
+      "en": "Preservation: Keep Meaning, Allow Change",
+      "isNew": false,
+      "part": {
+        "num": "8",
+        "name": "文化與媒體 Culture & Media"
+      },
+      "mergeNote": null,
+      "steps": [
+        "傳統不傳承下去，知識就會消失",
+        "但文化本來就隨社會改變",
+        "應保留核心意義",
+        "容許形式作合理調整"
+      ],
+      "skeleton": "not passed on → knowledge disappears; but culture naturally changes → preserve meaning, allow adaptation",
+      "bodies": [
+        {
+          "type": "body",
+          "label": null,
+          "text": "Cultural traditions are worth preserving because knowledge is difficult to recover once it is no longer passed on to younger generations. Preservation, however, does not mean that every tradition must remain exactly the same forever. Culture naturally changes as society changes, and reasonable adaptation often helps a tradition remain meaningful to younger people."
+        }
+      ],
+      "transferableRaw": "tea culture / traditional festivals / crafts / historic buildings / heritage",
+      "transferable": [
+        "tea culture",
+        "traditional festivals",
+        "crafts",
+        "historic buildings",
+        "heritage"
+      ],
+      "avoid": null,
+      "extraNotes": [],
+      "tier": 1
+    },
+    {
+      "id": "M43",
+      "zh": "藝術/音樂/電影的價值",
+      "en": "The Value of the Arts",
+      "isNew": true,
+      "part": {
+        "num": "8",
+        "name": "文化與媒體 Culture & Media"
+      },
+      "mergeNote": null,
+      "steps": [
+        "常被視為純娛樂",
+        "但能表達說不出口的情感",
+        "讓人看到自己以外的視角",
+        "同時訓練想像力與理解他人的能力"
+      ],
+      "skeleton": "seen as entertainment → expresses what words cannot → shows another point of view → imagination + understanding",
+      "bodies": [
+        {
+          "type": "body",
+          "label": null,
+          "text": "The arts are often treated as entertainment, yet they do far more than fill free time. A film, a song or a painting expresses feelings that people find hard to put into words, and it also shows life from a point of view the audience has never occupied. This is why art is not only enjoyable but genuinely useful: it develops imagination and helps people understand those around them. A society that supports the arts is therefore investing in more than leisure."
+        }
+      ],
+      "transferableRaw": "films / music / arts / books and stories / creative industries / anime and games / cultural events",
+      "transferable": [
+        "films",
+        "music",
+        "arts",
+        "books and stories",
+        "creative industries",
+        "anime and games",
+        "cultural events"
+      ],
+      "avoid": null,
+      "extraNotes": [],
+      "tier": 3
+    },
+    {
+      "id": "M44",
+      "zh": "媒體再現 → 刻板印象",
+      "en": "Representation → Stereotypes",
+      "isNew": false,
+      "part": {
+        "num": "8",
+        "name": "文化與媒體 Culture & Media"
+      },
+      "mergeNote": null,
+      "steps": [
+        "同一種形象反覆出現",
+        "觀眾把它當成常態",
+        "形成刻板印象",
+        "呈現更多元的形象才能化解"
+      ],
+      "skeleton": "repeated image → treated as normal → stereotype → need wider range",
+      "bodies": [
+        {
+          "type": "body",
+          "label": null,
+          "text": "Media representation shapes how people view groups they do not know personally. If films, advertisements or online content repeatedly show the same type of person in the same limited role, audiences gradually begin to treat that image as normal or representative. Showing a wider range of personalities and experiences is therefore one of the most effective ways to reduce stereotypes."
+        }
+      ],
+      "transferableRaw": "films / advertising / social media / age groups / occupations / popular culture",
+      "transferable": [
+        "films",
+        "advertising",
+        "social media",
+        "age groups",
+        "occupations",
+        "popular culture"
+      ],
+      "avoid": null,
+      "extraNotes": [],
+      "tier": 3
+    },
+    {
+      "id": "M35",
+      "zh": "廣告：提供資訊 vs 製造慾望",
+      "en": "Advertising: Information vs Created Desire",
+      "isNew": true,
+      "part": {
+        "num": "8",
+        "name": "文化與媒體 Culture & Media"
+      },
+      "mergeNote": null,
+      "steps": [
+        "廣告同時做兩件事",
+        "一方面告訴你有什麼產品、價錢多少",
+        "另一方面賣的是一種生活形象",
+        "分清資訊與形象，就不會買不需要的東西"
+      ],
+      "skeleton": "advertising does two things → real information (useful) → attractive image (creates desire) → separate the two",
+      "bodies": [
+        {
+          "type": "body",
+          "label": null,
+          "text": "Advertising does two things at once, and the two are easy to confuse. On one hand, it tells people which products exist, what they cost and where to buy them, which saves shoppers a great deal of searching. On the other hand, many advertisements barely describe the product at all; they show an attractive lifestyle and suggest that buying the item will produce the same result. Once people learn to separate real information from this kind of image, they are far less likely to buy things they never needed."
+        }
+      ],
+      "transferableRaw": "advertising / consumerism / spending habits / influencers / greenwashing / media",
+      "transferable": [
+        "advertising",
+        "consumerism",
+        "spending habits",
+        "influencers",
+        "greenwashing",
+        "media"
+      ],
+      "avoid": null,
+      "extraNotes": [],
+      "tier": 3
+    },
+    {
+      "id": "M45",
+      "zh": "旅遊 → 帶動本地經濟",
+      "en": "Tourism → Local Economy",
+      "isNew": false,
+      "part": {
+        "num": "9",
+        "name": "旅遊 Tourism"
+      },
+      "mergeNote": null,
+      "steps": [
+        "遊客消費",
+        "食肆、交通、酒店、小店都受惠",
+        "帶動就業與收入"
+      ],
+      "skeleton": "tourist spending → wide range of businesses → jobs/income",
+      "bodies": [
+        {
+          "type": "body",
+          "label": null,
+          "text": "Tourism supports the local economy because visitors spend money on a wide range of goods and services. The benefits are not limited to hotels or famous attractions; restaurants, transport and small shops all gain additional customers. When tourism is managed well, visitor spending creates employment right across the local community."
+        }
+      ],
+      "transferableRaw": "tourism promotion / festivals / local culture / heritage sites / tourism development",
+      "transferable": [
+        "tourism promotion",
+        "festivals",
+        "local culture",
+        "heritage sites",
+        "tourism development"
+      ],
+      "avoid": null,
+      "extraNotes": [],
+      "tier": 2
+    },
+    {
+      "id": "M46",
+      "zh": "旅遊 → 文化保育",
+      "en": "Tourism → Cultural Preservation",
+      "isNew": false,
+      "part": {
+        "num": "9",
+        "name": "旅遊 Tourism"
+      },
+      "mergeNote": null,
+      "steps": [
+        "遊客對本地文化感興趣",
+        "文化獲得經濟與社會價值",
+        "更多資源投入保育"
+      ],
+      "skeleton": "tourist interest → cultural value recognised → resources for preservation",
+      "bodies": [
+        {
+          "type": "body",
+          "label": null,
+          "text": "Tourism supports cultural preservation when visitors are genuinely interested in local traditions and heritage. Historic buildings, traditional food and cultural activities receive more attention and financial support once they attract visitors, and this gives communities an additional reason to maintain them."
+        }
+      ],
+      "transferableRaw": "heritage tourism / cultural tourism / tea culture / traditional food / festivals",
+      "transferable": [
+        "heritage tourism",
+        "cultural tourism",
+        "tea culture",
+        "traditional food",
+        "festivals"
+      ],
+      "avoid": null,
+      "extraNotes": [],
+      "tier": 3
+    },
+    {
+      "id": "M47",
+      "zh": "過度旅遊 → 居民生活質素",
+      "en": "Overtourism → Residents' Quality of Life",
+      "isNew": false,
+      "part": {
+        "num": "9",
+        "name": "旅遊 Tourism"
+      },
+      "mergeNote": null,
+      "steps": [
+        "遊客數量超出負荷",
+        "擠迫、噪音、交通壓力",
+        "居民日常生活變得困難",
+        "產生反感"
+      ],
+      "skeleton": "too many visitors → crowding/noise → daily life harder → resentment",
+      "bodies": [
+        {
+          "type": "body",
+          "label": null,
+          "text": "Tourism becomes harmful when the number of visitors grows beyond what a local area can comfortably handle. Crowded streets, packed transport and constant pressure on public facilities make everyday life much more difficult for residents. Tourism should therefore be judged not only by visitor numbers but also by its effect on the people who actually live there."
+        }
+      ],
+      "transferableRaw": "popular attractions / film tourism / country parks / city tourism / residents vs tourists",
+      "transferable": [
+        "popular attractions",
+        "film tourism",
+        "country parks",
+        "city tourism",
+        "residents vs tourists"
+      ],
+      "avoid": null,
+      "extraNotes": [],
+      "tier": 2
+    },
+    {
+      "id": "M48",
+      "zh": "商業化 → 失去原真性",
+      "en": "Commercialisation → Loss of Authenticity",
+      "isNew": false,
+      "part": {
+        "num": "9",
+        "name": "旅遊 Tourism"
+      },
+      "mergeNote": null,
+      "steps": [
+        "某地方變得受歡迎",
+        "為吸引遊客而改變",
+        "傳統被簡化或誇張",
+        "原有意義變淡"
+      ],
+      "skeleton": "popular → changed to attract customers → simplified → original meaning weakens",
+      "bodies": [
+        {
+          "type": "body",
+          "label": null,
+          "text": "Commercial success sometimes weakens the original meaning of a cultural activity or place. Once traditions or neighbourhoods become highly popular with tourists, they are changed mainly to attract customers, and they end up simplified or turned into products that are easier to sell. If this goes too far, the place becomes more profitable but far less distinctive."
+        }
+      ],
+      "transferableRaw": "tourism / traditional culture / food culture / heritage / authenticity",
+      "transferable": [
+        "tourism",
+        "traditional culture",
+        "food culture",
+        "heritage",
+        "authenticity"
+      ],
+      "avoid": null,
+      "extraNotes": [],
+      "tier": 3
+    },
+    {
+      "id": "M58",
+      "zh": "安全與風險預備",
+      "en": "Safety / Preparation for Risk",
+      "isNew": true,
+      "part": {
+        "num": "9",
+        "name": "旅遊 Tourism"
+      },
+      "mergeNote": null,
+      "steps": [
+        "意外多發生於不熟悉環境或忽視警告時",
+        "事前查資料、守規則、告知他人行蹤",
+        "花的時間極少",
+        "大幅減低出事機會"
+      ],
+      "skeleton": "accidents come from unfamiliarity/ignored warnings → simple preparation → little cost → much lower risk",
+      "bodies": [
+        {
+          "type": "body",
+          "label": null,
+          "text": "Safety depends far less on luck than on preparation. Most accidents happen when people are unfamiliar with a place, ignore warnings or assume that nothing will go wrong. Simple steps such as checking information in advance, following local rules and telling someone where you are going cost very little time, yet they greatly reduce the chance of serious trouble. The more carefully people prepare before a problem appears, the less they need to depend on help afterwards."
+        }
+      ],
+      "transferableRaw": "solo travel / overseas travel / outdoor activities / study tours / public safety / school trips / sports",
+      "transferable": [
+        "solo travel",
+        "overseas travel",
+        "outdoor activities",
+        "study tours",
+        "public safety",
+        "school trips",
+        "sports"
+      ],
+      "avoid": null,
+      "extraNotes": [],
+      "tier": 3
+    },
+    {
+      "id": "M49",
+      "zh": "義工服務 → 社會意識/同理心",
+      "en": "Volunteering → Social Awareness / Empathy",
+      "isNew": false,
+      "part": {
+        "num": "10",
+        "name": "社會、政策與環境 Society, Policy & Environment"
+      },
+      "mergeNote": null,
+      "steps": [
+        "平日接觸有限",
+        "直接接觸有需要的人",
+        "看見真實困難",
+        "同理心與社會意識提升"
+      ],
+      "skeleton": "limited exposure → direct contact → see real difficulties → empathy",
+      "bodies": [
+        {
+          "type": "body",
+          "label": null,
+          "text": "Volunteering helps people understand social problems more deeply because it gives them direct contact with people whose lives are very different from their own. A student may already know that certain groups face difficulties, but that knowledge remains abstract until they meet those people personally. Direct experience makes social issues feel real and noticeably increases empathy."
+        }
+      ],
+      "transferableRaw": "community service / elderly programmes / charity / youth volunteering / social participation",
+      "transferable": [
+        "community service",
+        "elderly programmes",
+        "charity",
+        "youth volunteering",
+        "social participation"
+      ],
+      "avoid": null,
+      "extraNotes": [],
+      "tier": 3
+    },
+    {
+      "id": "M50",
+      "zh": "共融 ＝ 可及 ＋ 參與 ＋ 被接納",
+      "en": "Inclusion = Access + Participation + Acceptance",
+      "isNew": false,
+      "part": {
+        "num": "10",
+        "name": "社會、政策與環境 Society, Policy & Environment"
+      },
+      "mergeNote": null,
+      "steps": [
+        "「被允許進入」 ≠ 「真正共融」",
+        "要去得到",
+        "要能實際參與",
+        "要感到需要被尊重"
+      ],
+      "skeleton": "allowed in ≠ truly included → need access + participation + acceptance",
+      "bodies": [
+        {
+          "type": "body",
+          "label": null,
+          "text": "True inclusion means far more than simply allowing different groups to be present. People are genuinely included only when they can reach the activity, take part in it meaningfully and feel that their needs are respected. A programme may technically be open to everyone and still exclude some people if the venue is difficult to enter or the necessary resources are unavailable."
+        }
+      ],
+      "transferableRaw": "disability / elderly people / school programmes / community activities / accessibility / social inclusion",
+      "transferable": [
+        "disability",
+        "elderly people",
+        "school programmes",
+        "community activities",
+        "accessibility",
+        "social inclusion"
+      ],
+      "avoid": null,
+      "extraNotes": [],
+      "tier": 3
+    },
+    {
+      "id": "M51",
+      "zh": "社會信任 → 合作更容易",
+      "en": "Social Trust → Easier Cooperation",
+      "isNew": false,
+      "part": {
+        "num": "10",
+        "name": "社會、政策與環境 Society, Policy & Environment"
+      },
+      "mergeNote": null,
+      "steps": [
+        "人們相信別人會守規矩",
+        "不用時刻懷疑與檢查",
+        "衝突減少",
+        "合作變得容易"
+      ],
+      "skeleton": "expect others to act responsibly → less suspicion → easier cooperation",
+      "bodies": [
+        {
+          "type": "body",
+          "label": null,
+          "text": "Social trust makes everyday cooperation much easier. When people believe that others will generally follow the rules and behave responsibly, they do not need to treat every interaction with suspicion. This reduces conflict and allows schools, workplaces and communities to function far more smoothly."
+        }
+      ],
+      "transferableRaw": "community / workplace / business / public services / neighbourhoods",
+      "transferable": [
+        "community",
+        "workplace",
+        "business",
+        "public services",
+        "neighbourhoods"
+      ],
+      "avoid": null,
+      "extraNotes": [],
+      "tier": 3
+    },
+    {
+      "id": "M52",
+      "zh": "清晰規則 → 可預測/公平使用",
+      "en": "Clear Rules → Predictability / Fair Use",
+      "isNew": false,
+      "part": {
+        "num": "10",
+        "name": "社會、政策與環境 Society, Policy & Environment"
+      },
+      "mergeNote": null,
+      "steps": [
+        "規則清楚",
+        "人知道什麼行為是被期望的",
+        "減少不確定與爭執",
+        "共用資源更公平"
+      ],
+      "skeleton": "clear rule → known expectations → less conflict → fair shared use",
+      "bodies": [
+        {
+          "type": "body",
+          "label": null,
+          "text": "Clear and reasonable rules make shared environments much easier to manage. Once people understand what behaviour is expected, they are far less likely to disturb others or argue about what is allowed. Rules also protect fair access to shared resources by preventing one person's behaviour from creating problems for everyone else."
+        }
+      ],
+      "transferableRaw": "school rules / library seats / public spaces / transport / public facilities",
+      "transferable": [
+        "school rules",
+        "library seats",
+        "public spaces",
+        "transport",
+        "public facilities"
+      ],
+      "avoid": null,
+      "extraNotes": [],
+      "tier": 3
+    },
+    {
+      "id": "M53",
+      "zh": "單靠規則不足以改變行為；預防勝於事後補救",
+      "en": "Rules Alone Don't Work; Prevention > Reaction",
+      "isNew": false,
+      "part": {
+        "num": "10",
+        "name": "社會、政策與環境 Society, Policy & Environment"
+      },
+      "mergeNote": null,
+      "steps": [
+        "單訂一條規則",
+        "若無理解、執行與替代方案",
+        "人會忽視它",
+        "及早行動比事後補救成本低得多"
+      ],
+      "skeleton": "rule alone ≠ change, unless understood + enforced + practical alternative; act early > repair later",
+      "bodies": [
+        {
+          "type": "body",
+          "label": null,
+          "text": "Introducing a rule does not automatically change behaviour. People need to understand why the rule exists, believe that it is reasonable and expect that it will be applied consistently. In many cases they also need a practical alternative to the behaviour being restricted. This is why prevention usually works better than reacting only after harm has been done: early action such as education, maintenance or clear incentives avoids much larger costs later."
+        }
+      ],
+      "transferableRaw": "plastic bans / school policies / public safety / environmental rules / health / rules and laws",
+      "transferable": [
+        "plastic bans",
+        "school policies",
+        "public safety",
+        "environmental rules",
+        "health",
+        "rules and laws"
+      ],
+      "avoid": null,
+      "extraNotes": [],
+      "tier": 1
+    },
+    {
+      "id": "M54",
+      "zh": "自由 vs 對他人的傷害",
+      "en": "Freedom vs Harm to Others",
+      "isNew": false,
+      "part": {
+        "num": "10",
+        "name": "社會、政策與環境 Society, Policy & Environment"
+      },
+      "mergeNote": null,
+      "steps": [
+        "個人自由重要",
+        "但選擇會影響其他人",
+        "當傷害明顯而重大",
+        "合理限制可以被接受"
+      ],
+      "skeleton": "personal freedom → affects others → significant harm → some limit justified",
+      "bodies": [
+        {
+          "type": "body",
+          "label": null,
+          "text": "Personal freedom is important, but individual choices cannot be judged only by whether they are convenient for the person making them. Behaviour in shared spaces creates noise or costs for other people who have no choice but to experience the effect. Where the harm to others is clear and significant, some reasonable limits are justified."
+        }
+      ],
+      "transferableRaw": "phones / cafés / public transport / noise / school rules / freedom vs responsibility",
+      "transferable": [
+        "phones",
+        "cafés",
+        "public transport",
+        "noise",
+        "school rules",
+        "freedom vs responsibility"
+      ],
+      "avoid": null,
+      "extraNotes": [],
+      "tier": 3
+    },
+    {
+      "id": "M55",
+      "zh": "政府與個人共同承擔責任",
+      "en": "Government + Individual Responsibility",
+      "isNew": false,
+      "part": {
+        "num": "10",
+        "name": "社會、政策與環境 Society, Policy & Environment"
+      },
+      "mergeNote": null,
+      "steps": [
+        "大型問題",
+        "政府建立制度",
+        "個人作日常選擇",
+        "兩者缺一不可"
+      ],
+      "skeleton": "large problem → government system + individual choice → both needed",
+      "bodies": [
+        {
+          "type": "body",
+          "label": null,
+          "text": "Large social problems are rarely solved by government action or individual behaviour alone. Governments provide the infrastructure and make better choices easier, while individuals still decide how they behave from day to day. A recycling system or a public transport network will have very limited effect if people simply refuse to use it."
+        }
+      ],
+      "transferableRaw": "environment / health / transport / recycling / individual vs system change",
+      "transferable": [
+        "environment",
+        "health",
+        "transport",
+        "recycling",
+        "individual vs system change"
+      ],
+      "avoid": null,
+      "extraNotes": [],
+      "tier": 1
+    },
+    {
+      "id": "M57",
+      "zh": "即時援助 vs 根本原因",
+      "en": "Immediate Help vs Root Cause",
+      "isNew": false,
+      "part": {
+        "num": "10",
+        "name": "社會、政策與環境 Society, Policy & Environment"
+      },
+      "mergeNote": null,
+      "steps": [
+        "即時支援解決眼前困難",
+        "但問題根源仍然存在",
+        "問題會重複出現",
+        "短期與長期措施須雙軌並行"
+      ],
+      "skeleton": "immediate help now → root cause remains → problem returns → need both short & long term",
+      "bodies": [
+        {
+          "type": "body",
+          "label": null,
+          "text": "Immediate support is important, but it rarely solves the cause of a problem. Giving money, food or emergency services reduces difficulty in the short term, yet the same problem returns if issues such as poor access to education or unemployment remain unchanged. A stronger response therefore combines immediate relief with long-term measures."
+        }
+      ],
+      "transferableRaw": "charity / poverty / student support / public health / inequality",
+      "transferable": [
+        "charity",
+        "poverty",
+        "student support",
+        "public health",
+        "inequality"
+      ],
+      "avoid": null,
+      "extraNotes": [],
+      "tier": 3
+    },
+    {
+      "id": "M59",
+      "zh": "減少 ＞ 重用 ＞ 回收",
+      "en": "Reduce > Reuse > Recycle",
+      "isNew": false,
+      "part": {
+        "num": "10",
+        "name": "社會、政策與環境 Society, Policy & Environment"
+      },
+      "mergeNote": null,
+      "steps": [
+        "最好是不消費",
+        "其次是重用已有的",
+        "最後才是回收餘下物料"
+      ],
+      "skeleton": "avoid consumption → reuse → recycle (in that order of priority)",
+      "bodies": [
+        {
+          "type": "body",
+          "label": null,
+          "text": "Recycling is useful, but reducing unnecessary consumption is considerably more effective. Recycling still requires collection, transport and processing, whereas avoiding an unnecessary purchase prevents those resources from being used at all. A more sustainable approach therefore focuses first on reducing waste, then on reusing products, and only finally on recycling whatever can no longer be used."
+        }
+      ],
+      "transferableRaw": "plastic / fast fashion / shopping / packaging / waste policy / sustainable consumption",
+      "transferable": [
+        "plastic",
+        "fast fashion",
+        "shopping",
+        "packaging",
+        "waste policy",
+        "sustainable consumption"
+      ],
+      "avoid": null,
+      "extraNotes": [],
+      "tier": 2
+    },
+    {
+      "id": "M60",
+      "zh": "可持續選擇必須實際可行",
+      "en": "Sustainable Choice Must Be Practical",
+      "isNew": false,
+      "part": {
+        "num": "10",
+        "name": "社會、政策與環境 Society, Policy & Environment"
+      },
+      "mergeNote": null,
+      "steps": [
+        "人原則上支持環保",
+        "但若太貴或不方便",
+        "就不會跟從",
+        "制度要令好的選擇變得容易"
+      ],
+      "skeleton": "support green idea in principle → too costly/inconvenient → won't follow → system must make it easy",
+      "bodies": [
+        {
+          "type": "body",
+          "label": null,
+          "text": "Sustainable behaviour lasts only when the environmentally better choice is also the practical one. People support recycling or public transport in principle, yet they still choose a less sustainable option whenever the alternative is expensive or inconvenient. Environmental policy should therefore make responsible choices easier rather than relying entirely on personal sacrifice."
+        }
+      ],
+      "transferableRaw": "public transport / recycling / green products / renewable energy / convenience vs sustainability",
+      "transferable": [
+        "public transport",
+        "recycling",
+        "green products",
+        "renewable energy",
+        "convenience vs sustainability"
+      ],
+      "avoid": null,
+      "extraNotes": [],
+      "tier": 2
+    },
+    {
+      "id": "M73",
+      "zh": "長者是貢獻者，而非只是受助者",
+      "en": "Elderly as Contributors",
+      "isNew": false,
+      "part": {
+        "num": "10",
+        "name": "社會、政策與環境 Society, Policy & Environment"
+      },
+      "mergeNote": null,
+      "steps": [
+        "年老 ≠ 只需要被照顧",
+        "擁有經驗、技能與時間",
+        "可以繼續貢獻",
+        "社會應創造參與機會"
+      ],
+      "skeleton": "older age ≠ only dependence → experience/skills → continued contribution",
+      "bodies": [
+        {
+          "type": "body",
+          "label": null,
+          "text": "Older people should not be viewed only as a group in need of support. Many remain healthy and possess valuable experience, practical knowledge and time that benefit workplaces, families and communities. An ageing society should create opportunities for older people to remain active participants rather than treating age itself as a reason for exclusion."
+        }
+      ],
+      "transferableRaw": "retirement / ageing population / volunteering / intergenerational programmes / elderly people",
+      "transferable": [
+        "retirement",
+        "ageing population",
+        "volunteering",
+        "intergenerational programmes",
+        "elderly people"
+      ],
+      "avoid": null,
+      "extraNotes": [],
+      "tier": 3
+    },
+    {
+      "id": "M74",
+      "zh": "公共交通 → 社會參與機會",
+      "en": "Public Transport → Social Opportunity",
+      "isNew": false,
+      "part": {
+        "num": "10",
+        "name": "社會、政策與環境 Society, Policy & Environment"
+      },
+      "mergeNote": null,
+      "steps": [
+        "交通便利",
+        "更易到達學校、工作、服務",
+        "距離不再是障礙",
+        "參與機會增加"
+      ],
+      "skeleton": "good transport → reach services → distance less of a barrier → participation",
+      "bodies": [
+        {
+          "type": "body",
+          "label": null,
+          "text": "Reliable public transport increases people's access to important opportunities. Those who do not own a car still need to reach schools, workplaces and community activities. Once transport is affordable and convenient, distance becomes far less of a barrier to education, employment and social life."
+        }
+      ],
+      "transferableRaw": "transport / urban planning / elderly people / low-income groups / accessibility",
+      "transferable": [
+        "transport",
+        "urban planning",
+        "elderly people",
+        "low-income groups",
+        "accessibility"
+      ],
+      "avoid": null,
+      "extraNotes": [],
+      "tier": 3
+    },
+    {
+      "id": "M76",
+      "zh": "商業責任",
+      "en": "Business Responsibility",
+      "isNew": false,
+      "part": {
+        "num": "10",
+        "name": "社會、政策與環境 Society, Policy & Environment"
+      },
+      "mergeNote": null,
+      "steps": [
+        "企業設計產品與服務",
+        "塑造消費者可選擇的範圍",
+        "企業不提供好選擇，消費者就選不到",
+        "責任應由雙方共同承擔"
+      ],
+      "skeleton": "business designs the choices → shapes consumer behaviour → shared responsibility",
+      "bodies": [
+        {
+          "type": "body",
+          "label": null,
+          "text": "Businesses carry real responsibility because they shape the choices available to consumers. Packaging, product quality and the way a service is designed all encourage either responsible or harmful behaviour. Consumers cannot choose a better option if companies never provide one. Responsibility should therefore be shared between businesses and their customers."
+        }
+      ],
+      "transferableRaw": "environment / food / advertising / consumer rights / business responsibility",
+      "transferable": [
+        "environment",
+        "food",
+        "advertising",
+        "consumer rights",
+        "business responsibility"
+      ],
+      "avoid": null,
+      "extraNotes": [],
+      "tier": 3
+    },
+    {
+      "id": "M77",
+      "zh": "漂綠/虛假形象",
+      "en": "Greenwashing / Misleading Image",
+      "isNew": false,
+      "part": {
+        "num": "10",
+        "name": "社會、政策與環境 Society, Policy & Environment"
+      },
+      "mergeNote": null,
+      "steps": [
+        "塑造環保形象",
+        "但實際行動很少",
+        "消費者被誤導",
+        "公眾信任受損"
+      ],
+      "skeleton": "green image → little real action → consumers misled → trust damaged",
+      "bodies": [
+        {
+          "type": "body",
+          "label": null,
+          "text": "Companies should not create a responsible image that is much stronger than their actual behaviour. Advertising often highlights one small positive feature while ignoring far larger environmental costs, which makes consumers believe a product is better than it really is. Misleading claims of this kind damage public trust in every company that makes them."
+        }
+      ],
+      "transferableRaw": "environment / advertising / brands / consumer trust / greenwashing",
+      "transferable": [
+        "environment",
+        "advertising",
+        "brands",
+        "consumer trust",
+        "greenwashing"
+      ],
+      "avoid": null,
+      "extraNotes": [],
+      "tier": 3
+    },
+    {
+      "id": "M86",
+      "zh": "城市 vs 鄉郊：居住環境與生活質素",
+      "en": "Urban vs Rural Living",
+      "isNew": true,
+      "part": {
+        "num": "10",
+        "name": "社會、政策與環境 Society, Policy & Environment"
+      },
+      "mergeNote": null,
+      "steps": [
+        "城市：工作、交通、學校、醫療都在附近",
+        "但擠迫、嘈吵、樓價高",
+        "鄉郊：空間大、空氣好，但服務難到達",
+        "沒有一方全面較好，視乎人生階段的需要"
+      ],
+      "skeleton": "city = services near but crowded → countryside = space but far from services → neither is better in every way",
+      "bodies": [
+        {
+          "type": "body",
+          "label": null,
+          "text": "Where people live affects daily life far more than they usually notice. Cities place jobs, transport, schools and medical services within easy reach, but they also bring crowding, noise and high housing costs. Quieter areas offer space and cleaner air while making it much harder to reach work or specialist services. Neither environment is better in every way, so the sensible question is which set of advantages matters most at a particular stage of life."
+        }
+      ],
+      "transferableRaw": "housing / urban life / rural vs urban living / ageing / remote work / urban planning / public transport",
+      "transferable": [
+        "housing",
+        "urban life",
+        "rural vs urban living",
+        "ageing",
+        "remote work",
+        "urban planning",
+        "public transport"
+      ],
+      "avoid": null,
+      "extraNotes": [],
+      "tier": 3
+    }
+  ],
+  "mergedStubs": [
+    {
+      "id": "M71",
+      "zh": "數碼鴻溝",
+      "mergedInto": "M14",
+      "howto": "替換結尾（數碼鴻溝版）"
+    },
+    {
+      "id": "M40",
+      "zh": "工作與生活平衡",
+      "mergedInto": "M19",
+      "howto": "替換結尾 ②"
+    },
+    {
+      "id": "M56",
+      "zh": "公共開支的機會成本",
+      "mergedInto": "M32",
+      "howto": "替換結尾（公共開支版）"
+    },
+    {
+      "id": "M20",
+      "zh": "休息與平衡",
+      "mergedInto": "M19",
+      "howto": "替換結尾（休息版）"
+    }
+  ],
+  "allIds": [
+    "M01",
+    "M02",
+    "M03",
+    "M04",
+    "M05",
+    "M06",
+    "M07",
+    "M08",
+    "M09",
+    "M10",
+    "M11",
+    "M12",
+    "M13",
+    "M14",
+    "M15",
+    "M16",
+    "M17",
+    "M18",
+    "M19",
+    "M20",
+    "M21",
+    "M22",
+    "M23",
+    "M24",
+    "M25",
+    "M26",
+    "M27",
+    "M28",
+    "M29",
+    "M30",
+    "M31",
+    "M32",
+    "M33",
+    "M34",
+    "M35",
+    "M36",
+    "M37",
+    "M38",
+    "M39",
+    "M40",
+    "M41",
+    "M42",
+    "M43",
+    "M44",
+    "M45",
+    "M46",
+    "M47",
+    "M48",
+    "M49",
+    "M50",
+    "M51",
+    "M52",
+    "M53",
+    "M54",
+    "M55",
+    "M56",
+    "M57",
+    "M58",
+    "M59",
+    "M60",
+    "M61",
+    "M62",
+    "M63",
+    "M64",
+    "M65",
+    "M66",
+    "M67",
+    "M68",
+    "M69",
+    "M70",
+    "M71",
+    "M72",
+    "M73",
+    "M74",
+    "M75",
+    "M76",
+    "M77",
+    "M78",
+    "M79",
+    "M80",
+    "M81",
+    "M82",
+    "M83",
+    "M84",
+    "M85",
+    "M86",
+    "M87"
+  ]
+}
