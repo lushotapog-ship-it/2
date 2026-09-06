@@ -63,7 +63,10 @@ export default function HomePage({ onNavigate, onReview }) {
                 <strong>{id}</strong> {m.zh}
                 <span className="tag" style={{ marginLeft: 6 }}>{REASON_LABEL[reason]}</span>
               </div>
-              <button className="btn" onClick={() => onReview(id, 'zh')}>試一次</button>
+              <div className="btn-row">
+                <button className="btn" onClick={() => onReview(id, 'en')}>英文</button>
+                <button className="btn" onClick={() => onReview(id, 'zh')}>中文</button>
+              </div>
             </div>
           );
         })}
